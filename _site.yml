@@ -1,0 +1,19 @@
+name: "Chromebook Data Science"
+output_dir: "."
+navbar:
+  title: "Chromebook Data Science"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Why chromebooks"
+      href: chromebooks.html
+    - text: "Curriculum"
+      href: curriculum.html
+    - text: "Team"
+      href: team.html
+    - text: "Apply"
+      href: apply.html
+output:
+  html_document:
+    theme: flatly
+    highlight: textmate
