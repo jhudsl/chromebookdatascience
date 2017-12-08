@@ -11,7 +11,7 @@
 
 
 
-<title>My Website</title>
+<title>Chromebook Data Science Curriculum</title>
 
 <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -20,8 +20,8 @@
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
-<link href="site_libs/highlightjs-1.1/textmate.css" rel="stylesheet" />
-<script src="site_libs/highlightjs-1.1/highlight.js"></script>
+<link href="site_libs/highlightjs-9.12.0/textmate.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
 
 <style type="text/css">code{white-space: pre;}</style>
 <style type="text/css">
@@ -30,10 +30,12 @@
   }
 </style>
 <script type="text/javascript">
-if (window.hljs && document.readyState && document.readyState === "complete") {
-   window.setTimeout(function() {
-      hljs.initHighlighting();
-   }, 0);
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
 }
 </script>
 
@@ -199,12 +201,134 @@ $(document).ready(function () {
 
 
 
-<h1 class="title toc-ignore">My Website</h1>
+<h1 class="title toc-ignore">Chromebook Data Science Curriculum</h1>
 
 </div>
 
 
-<p>Hello, Website!</p>
+<p>There are currently eight courses that are offered in the Chromebook Data Science Curriculum</p>
+<table style="width:82%;">
+<colgroup>
+<col width="30%" />
+<col width="27%" />
+<col width="23%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th align="left">Class</th>
+<th align="left">Course Page</th>
+<th align="left">Links</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">Introduction and Setup</td>
+<td align="left"><a href="#introduction-and-setup">Intro</a></td>
+</tr>
+<tr class="even">
+<td align="left">Google and the Cloud</td>
+<td align="left"><a href="#google-and-the-cloud">Google</a></td>
+</tr>
+<tr class="odd">
+<td align="left">Asking for Help</td>
+<td align="left"><a href="#asking-for-help">Asking for Help</a></td>
+</tr>
+<tr class="even">
+<td align="left">Data</td>
+<td align="left"><a href="#data">Data</a></td>
+</tr>
+<tr class="odd">
+<td align="left">R</td>
+<td align="left"><a href="#r-basics">R</a></td>
+</tr>
+<tr class="even">
+<td align="left">Github and Markdown</td>
+<td align="left"><a href="#github-and-markdown">Github and Markdown</a></td>
+</tr>
+<tr class="odd">
+<td align="left">Key Packages</td>
+<td align="left"><a href="#key-packages">Key Packages</a></td>
+</tr>
+<tr class="even">
+<td align="left">Data Science Pipeline</td>
+<td align="left"><a href="#data-Science-pipeline">Data Science Pipeline</a></td>
+</tr>
+</tbody>
+</table>
+<p>Each course is sequential and <strong>requires absolutely no prior coding experience</strong>. If you know how to use an smartphone you’re more than qualified to take this course.</p>
+<p>Here’s a more extensive breakdown of each course.</p>
+<hr />
+<div id="introduction-and-setup" class="section level2">
+<h2>Introduction and Setup</h2>
+<p>This course will introduce you to using a Chromebook, the exciting field of data science, important ethical and legal considerations when working in data science, and course expectations. The Introduction and Setup course might sound simple, but it will set up the infrastructure for success with the latter more challenging courses.</p>
+<ul>
+<li>Software used: Chrome OS, Chrome, Pixlr</li>
+<li>Programs used: N/A</li>
+</ul>
+<hr />
+</div>
+<div id="google-and-the-cloud" class="section level2">
+<h2>Google and the Cloud</h2>
+<p>The Google and the Cloud course introduces using Google’s in-built apps, which form the fundamental backbone of a Chromebook. We’ll go step by step through the process to integrating these apps together to form your productivity workflow.</p>
+<ul>
+<li>Software used: Google Chrome, Google Drive (Sheets, Docs, Slides, etc.)</li>
+<li>Programs used: N/A</li>
+</ul>
+<hr />
+</div>
+<div id="asking-for-help" class="section level2">
+<h2>Asking for Help</h2>
+<p>Asking for help is important in any industry, and the tech field is blessed to have better documentation and resources than almost any other industry. We’ll teach you how to find the information you need to learn new tools and debug any problems you encounter.</p>
+<ul>
+<li>Software used: Google Chrome</li>
+<li>Programs used: N/A</li>
+</ul>
+<hr />
+</div>
+<div id="data" class="section level2">
+<h2>Data</h2>
+<p>Data is often misunderstood in both subject and application. The Data course will focus on understanding what data is, what the data you’ll encounter will look like, and how to analyze and use data.</p>
+<ul>
+<li>Software used: Google Chrome, Google Sheets, Microsoft Excel</li>
+<li>Programs used: N/A</li>
+</ul>
+<hr />
+</div>
+<div id="r-basics" class="section level2">
+<h2>R Basics</h2>
+<p>R is a simple to learn programming language that is powerful for data analysis. The R Basics course will teach you how to get started from ground zero.</p>
+<ul>
+<li>Software used: RStudio, Shiny</li>
+<li>Programs used: R, RMarkdown</li>
+</ul>
+<hr />
+</div>
+<div id="github-and-markdown" class="section level2">
+<h2>Github and Markdown</h2>
+<p>Github is the world’s most popular version control website while Markdown is a simple way to compile text documents to a standard format. Together they form a powerful way for you to get your code out to the world.</p>
+<ul>
+<li>Software used: Google Chrome</li>
+<li>Programs used: Git, Markdown</li>
+</ul>
+<hr />
+</div>
+<div id="key-packages" class="section level2">
+<h2>Key Packages</h2>
+<p>The Key Packages section will be a more substantial lesson going over some important tools for data analysis. We’ll teach you how to install, use, and integrate these programs and how to think like a data scientist during the process.</p>
+<ul>
+<li>Software used: RStudio</li>
+<li>Programs used: R, dplyr, tidyr, ggplot, readr, stringr, rvest, rdrop2, googlesheets, xm12, http, lubridate, viz, plotly, gganimate</li>
+</ul>
+<hr />
+</div>
+<div id="data-science-pipeline" class="section level2">
+<h2>Data Science Pipeline</h2>
+<p>This lesson starts from data mining and cleaning, to exploratory analysis, to creating a data product. The lesson will culminate in a capstone project where you use all the skills you have learned so far in a real world application.</p>
+<ul>
+<li>Software used: All the above</li>
+<li>Programs used: All the above</li>
+</ul>
+</div>
 
 
 
