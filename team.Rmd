@@ -1,5 +1,31 @@
 ---
-title: "My Website"
+title: "Our team"
 ---
 
-Hello, Website!
+
+</br></br>
+
+### __Director__
+
+```{r,echo=FALSE,warning=FALSE}
+source("helper.R")
+two_column_fixed_height("Jeff Leek is the director of Chromebook Data Science. He has taught millions of people data science online through massive online open courses. He is also an associate professor at Johns Hopkins Bloomberg School of Public Health and co-director of the Johns Hopkins Data Science Lab. ","./img/01_people.jpg")
+```
+
+-----
+
+
+### __Curriculum Lead__
+
+
+```{r,echo=FALSE,warning=FALSE}
+source("helper.R")
+two_column_fixed_height("Aboozar Hadavand is blah blah. ","./img/02_people.jpg")
+```
+
+
+-----
+
+
+### __Curriculum Developers__
+

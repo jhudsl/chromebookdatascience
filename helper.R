@@ -1,12 +1,40 @@
 library(htmltools)
-team_member <- function(name, img, bio) {
+
+two_column <- function(text, img, iside="left") {
   div(class="row",
-    div(class="col-sm-4",
-      img(class=".img-circle",src=img, height=10),
-      div(class="caption",strong(name))
+    div(class="col-sm-6",
+      if(iside=="left"){
+        img(src=img,width="100%")
+      }else{
+        h3(text)
+      }
     ),
-    div(class="col-sm-4",
-      p(bio)
+    div(class="col-sm-6",
+        if(iside=="left"){
+          h3(text)
+        }else{
+          img(src=img,width="100%")
+        }
     )
+  )
+}
+
+
+two_column_fixed_height <- function(text, img, iside="left") {
+  div(class="row",
+      div(class="col-sm-6",
+          if(iside=="left"){
+            img(src=img,height="200px")
+          }else{
+            h3(text)
+          }
+      ),
+      div(class="col-sm-6",
+          if(iside=="left"){
+            h3(text)
+          }else{
+            img(src=img,width="100%")
+          }
+      )
   )
 }

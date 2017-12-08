@@ -5,8 +5,8 @@ navbar:
   left:
     - text: "Home"
       href: index.html
-    - text: "Why chromebooks"
-      href: chromebooks.html
+    - text: "Our philosophy"
+      href: philsophy.html
     - text: "Curriculum"
       href: curriculum.html
     - text: "Team"
