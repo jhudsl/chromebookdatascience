@@ -11,9 +11,7 @@ navbar:
       href: curriculum.html
     - text: "Team"
       href: team.html
-    - text: "Apply"
-      href: apply.html
 output:
   html_document:
-    theme: flatly
+    theme: cosmo
     highlight: textmate
