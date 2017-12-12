@@ -4,7 +4,7 @@ title: ""
 
 </br></br>
 
-### Chromebook Data Science is an online educational program created by a [team](./team.html) the [Johns Hopkins Data Science Lab](http://jhudatascience.org/). Chromebook Data Science is a sequence of [courses](./curriculum.html) that assumes basic computer literacy as a pre-requisite and builds to performing basic data science skills. Our [philosophy](./philosphy.html) is to make data science a completely cloud based activity so people can work from where they are rather than being forced to move to high cost centers of data science. If you are a company looking for well-trained data scientists and want to support Chromebook Data Science consider becoming a [partner organization](./partners.html). 
+### Chromebook Data Science is an online educational program created by a [team](./soon.html) the [Johns Hopkins Data Science Lab](http://jhudatascience.org/). Chromebook Data Science is a sequence of [courses](./soon.html) that assumes basic computer literacy as a pre-requisite and builds to performing basic data science skills. Our [philosophy](./soon.html) is to make data science a completely cloud based activity so people can work from where they are rather than being forced to move to high cost centers of data science. If you are a company looking for well-trained data scientists and want to support Chromebook Data Science consider becoming a [partner organization](./partners.html). 
 
 -----
 
@@ -47,13 +47,13 @@ two_column("We have developed a curriculum that is fully cloud based to allow st
 
 ```{r,echo=FALSE,warning=FALSE}
 source("helper.R")
-two_column("It is possible to complete our Chromebook Data Science program entirely online, for free. We couple will our online curriculum with in person tutoring and support to ensure equal access for individuals who have not been traditionally well served by online programs.","./img/06_index.png",iside="left")
+two_column("It is possible to complete our Chromebook Data Science program entirely online, for free. We couple will our online curriculum with in person tutoring and support to ensure equal access for individuals who have not been traditionally well served by online programs.","./img/06_index.png",iside="left",link="./comingsoon.html", linktext="See our curriculum")
 ```
 
 -----
 
 ```{r,echo=FALSE,warning=FALSE}
 source("helper.R")
-two_column("We partner with companies who need to fill data science roles to place our graduates in remote data science jobs. If you are looking for data scientists consider becoming a Chromebook Data Science hiring partner. ","./img/07_index.png",iside="right")
+two_column("We partner with companies who need to fill data science roles to place our graduates in remote data science jobs. If you are looking for data scientists consider becoming a Chromebook Data Science hiring partner. ","./img/07_index.png",iside="right", link="./partners.html",linktext="Become a Hiring Partner")
 ```
 

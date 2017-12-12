@@ -5,12 +5,8 @@ navbar:
   left:
     - text: "Home"
       href: index.html
-    - text: "Our philosophy"
-      href: philsophy.html
-    - text: "Curriculum"
-      href: curriculum.html
-    - text: "Team"
-      href: team.html
+    - text: "Partners"
+      href: partners.html
 output:
   html_document:
     theme: cosmo
