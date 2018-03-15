@@ -3,18 +3,21 @@ title: "Chromebook Data Science Curriculum"
 output: html_document
 ---
 
-There are currently eight courses that are offered in the Chromebook Data Science Curriculum
+There are currently eleven courses that are offered in the Chromebook Data Science Curriculum
 
 Class | Course Page | Links
 ---------------------|-------------------|----------------
 Introduction and Setup | [Intro](#introduction-and-setup) | 
 Google and the Cloud | [Google](#google-and-the-cloud) |
-Asking for Help | [Asking for Help](#asking-for-help) |
-Data | [Data](#data) | 
-R | [R](#r-basics) |
-Github and Markdown | [Github and Markdown](#github-and-markdown) |
-Key Packages | [Key Packages](#key-packages) |
-Data Science Pipeline | [Data Science Pipeline](#data-Science-pipeline) |
+File Organization & Projects | [File Org](#file-org) |
+GitHub | [GitHub](#github) | 
+Introduction to R | [R ](#r-basics) |
+Data & Getting Data | [Data](#data) |
+Data Cleaning & Wrangling | [Data Wrangling](#data-wrangling) |
+Data Visualization | [Data Vis](#data-vis) |
+Basics of Data Analysis | [Data Analysis](#data-analysis) |
+Machine Learning | [Machine Learning](#machine-learning) |
+Data Products | [Data Products](#data-products) |
 
 Each course is sequential and **requires absolutely no prior coding experience**. If you know how to use an smartphone you're more than qualified to take this course.
 
@@ -23,9 +26,9 @@ Here's a more extensive breakdown of each course.
 -----
 
 ## Introduction and Setup
-This course will introduce you to using a Chromebook, the exciting field of data science, important ethical and legal considerations when working in data science, and course expectations. The Introduction and Setup course might sound simple, but it will set up the infrastructure for success with the latter more challenging courses.
+This course will introduce you to using a Chromebook, the exciting field of data science, important ethical and legal considerations when working in data science, and course expectations. The Introduction and Setup course might sound simple, but it will set up the infrastructure for success with the later, more challenging courses.
 
-* Software used: Chrome OS, Chrome, Pixlr
+* Software used: Chrome OS, Chrome
 * Programs used: N/A
 
 -----
@@ -33,54 +36,78 @@ This course will introduce you to using a Chromebook, the exciting field of data
 ## Google and the Cloud
 The Google and the Cloud course introduces using Google's in-built apps, which form the fundamental backbone of a Chromebook. We'll go step by step through the process to integrating these apps together to form your productivity workflow.
 
-* Software used: Google Chrome, Google Drive (Sheets, Docs, Slides, etc.) 
+* Software used: Google Chrome, Google Drive (Sheets, Docs, Slides, etc.), Google Calendar, Google Maps, YouTube, Slack  
 * Programs used: N/A
 
 -----
 
-## Asking for Help
-Asking for help is important in any industry, and the tech field is blessed to have better documentation and resources than almost any other industry. We'll teach you how to find the information you need to learn new tools and debug any problems you encounter.
+## File Organization & Projects
+Projects are central to the role of any data scientist. These lessons will discuss how to organize projects and the files that are part of each project and will introduce you to Markdown, a simple way to compile text documents to a standard format.
 
-* Software used: Google Chrome
-* Programs used: N/A
-
------
-
-
-## Data 
-Data is often misunderstood in both subject and application. The Data course will focus on understanding what data is, what the data you'll encounter will look like, and how to analyze and use data.
-
-* Software used: Google Chrome, Google Sheets, Microsoft Excel
-* Programs used: N/A
+* Software used: Google Chrome, RStudio
+* Programs used: Markdown
 
 -----
 
-## R Basics
-R is a simple to learn programming language that is powerful for data analysis. The R Basics course will teach you how to get started from ground zero.
 
-* Software used: RStudio, Shiny
-* Programs used: R, RMarkdown
-
------
-
-## Github and Markdown 
-Github is the world's most popular version control website while Markdown is a simple way to compile text documents to a standard format. Together they form a powerful way for you to get your code out to the world.
+## GitHub 
+Github is the world's most popular version control website. With GitHub and Markdown, they provide a powerful way for you to get your code out to the world. In this course, we will tour GitHub, discussing the basic features of the website, what a repository is, and how to work with repositories on GitHub.
 
 * Software used: Google Chrome
 * Programs used: Git, Markdown
 
 -----
 
-## Key Packages
-The Key Packages section will be a more substantial lesson going over some important tools for data analysis. We'll teach you how to install, use, and integrate these programs and how to think like a data scientist during the process.
+## Introduction to R
+R is a simple to learn programming language that is powerful for data analysis. The R Basics course will teach you how to get started from ground zero. We will discuss what objects and packages are, introduce some basic R commands, and discuss RMarkdown, which you will use to write all your reports and to develop a personal website. 
 
-* Software used: RStudio
-* Programs used: R, dplyr, tidyr, ggplot, readr, stringr, rvest, rdrop2, googlesheets, xm12, http, lubridate, viz, plotly, gganimate
+* Software used: Google Chrome, RStudio 
+* Programs used: R, RMarkdown, blogdown
 
 -----
 
-## Data Science Pipeline
-This lesson starts from data mining and cleaning, to exploratory analysis, to creating a data product. The lesson will culminate in a capstone project where you use all the skills you have learned so far in a real world application.
+## Data & Getting Data 
+Data is often misunderstood in both subject and application. The Data course will focus on understanding what data is, what the data you'll encounter will look like, and how to analyze and use data. Additionally, we'll start to discuss where to find data and how to work with these data in RStudio.
+
+* Software used: Google Chrome, Google Sheets, Microsoft Excel, RStudio, 
+* Programs used: R, readxl, readr, googlesheets, jsonlite, dbplyr, httr, rvest
+
+-----
+
+## Data Cleaning & Wrangling
+This course will delve deeper into working with data. Much of what data scientists do involves getting data into a usable format and cleaning the data to make sure that analyses can be done properly. We'll 
+
+* Software used: Google Chrome, RStudio
+* Programs used: R, dplyr, tidyr, stringr, lubridate, 
+
+-----
+
+## Data Visualization
+This course will cover the different types of visualation most commonly used by data scientists as well as how to make these different plots in R. We will cover how to make basic tables and figures as well as how to make interactive graphics. 
+
+* Software used: Google Chrome, RStudio
+* Programs used: ggplot2, plotly, gganimate, viz
+
+-----
+
+## Basics of Data Analysis
+This course will discuss the various types of data analysis, what to consider when carrying out an analysis, and how to approach a data analysis project.  
+
+* Software used: Google Chrome, RStudio
+* Programs used: All the above
+
+-----
+
+## Machine Learning
+Data Scientists are often asked to use data to make predictions. To learn this, we'll discuss basic machine learning approaches and walk through how to carry these out in R.
 
 * Software used: All the above
+* Programs used: All the above
+
+-----
+
+## Data Products
+Sharing your results with others and visualizing them in a meaningful way is an important skill for a data sciensist to have. This course will delve deeply into the various ways that one can present their data and share their results in a visually appealing way. 
+
+* Software used: Google Chrome, RStudio, Shiny
 * Programs used: All the above
