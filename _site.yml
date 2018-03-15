@@ -13,6 +13,8 @@ navbar:
     href: team.html
   - text: Why data science
     href: WhyDataScience.html
+  - text: Contact US
+    href: contact.html
 output:
   html_document:
     theme: cosmo
