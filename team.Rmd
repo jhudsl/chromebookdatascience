@@ -42,7 +42,7 @@ two_column_fixed_height(text = "Aboozar Hadavand is a Post-Doctoral Scholar at J
 ```{r,echo=FALSE,warning=FALSE}
 source("helper.R")
 two_column_fixed_height(text = "John Muschelli is a research faculty at Johns Hopkins Bloomberg School of Public Health. He has created over 30 packages for data analysis and works in statistical data analysis of neuroimaging data. ",
-                        img = "./img/john.jpg",
+                        img = "./img/john.png",
                         link="http://johnmuschelli.com/",
                         linktext="More about John.")
 ```
@@ -55,7 +55,7 @@ two_column_fixed_height(text = "John Muschelli is a research faculty at Johns Ho
 ```{r,echo=FALSE,warning=FALSE}
 source("helper.R")
 two_column_fixed_height(text = "Leah Jager is  ",
-                        img = "./img/leah.jpg",
+                        img = "./img/leah.png",
                         link="https://www.jhsph.edu/faculty/directory/profile/2909/leah-r-jager",
                         linktext="More about Leah.")
 ```
