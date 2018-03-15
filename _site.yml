@@ -1,17 +1,22 @@
-name: "Chromebook Data Science"
-output_dir: "."
+name: Chromebook Data Science
+output_dir: '.'
 navbar:
-  title: "Chromebook Data Science"
+  title: Chromebook Data Science
   left:
-    - text: "Home"
-      href: index.html
-    - text: "Partners"
-      href: partners.html
-    - text: "Curriculum"
-      href: curriculum.html
-    - text: "Team"
-      href: team.html
+  - text: Home
+    href: index.html
+  - text: Partners
+    href: partners.html
+  - text: Curriculum
+    href: curriculum.html
+  - text: Team
+    href: team.html
+  - text: "Why data science"
+    href: WhyDataScience.html
 output:
   html_document:
     theme: paper
     highlight: textmate
+    lib_dir: site_libs
+    self_contained: no
+
