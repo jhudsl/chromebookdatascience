@@ -9,7 +9,7 @@ Class | Course Page | Links
 ---------------------|-------------------|----------------
 Introduction and Setup | [Intro](#introduction-and-setup) | 
 Google and the Cloud | [Google](#google-and-the-cloud) |
-File Organization & Projects | [File Org](#file-org) |
+File Organization & Projects | [File Org](#file-organization-&-products) |
 GitHub | [GitHub](#github) | 
 Introduction to R | [R ](#r-basics) |
 Data & Getting Data | [Data](#data) |
