@@ -1,0 +1,22 @@
+# R for travis: see documentation at https://docs.travis-ci.com/user/languages/r
+
+language: R
+sudo: false
+cache: packages
+
+apt_install: 
+  - ghostscript
+  - pandoc
+
+install:
+  - Rscript -e 'install.packages("htmltools")'
+  - Rscript -e 'install.packages("rmarkdown")'
+  - Rscript -e 'update.packages(ask = FALSE, checkBuilt = TRUE)'
+  # - Rscript -e 'install.packages(c("dplyr", "bootstrap"))'
+  # - Rscript -e 'install.packages(c("fields", "ResourceSelection"))'
+  - Rscript -e 'as.list(rmarkdown:::.pandoc)'
+  - Rscript -e 'install.packages("webshot")'
+  - Rscript -e 'webshot::install_phantomjs()'
+
+script:
+  - make
