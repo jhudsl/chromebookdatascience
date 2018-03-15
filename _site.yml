@@ -11,11 +11,11 @@ navbar:
     href: curriculum.html
   - text: Team
     href: team.html
-  - text: "Why data science"
+  - text: Why data science
     href: WhyDataScience.html
 output:
   html_document:
-    theme: paper
+    theme: cosmo
     highlight: textmate
     lib_dir: site_libs
     self_contained: no
