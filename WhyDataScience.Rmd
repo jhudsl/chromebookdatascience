@@ -1,6 +1,5 @@
 ---
 title: "Why Data Science?"
-output: html_document
 ---
 
 ## __Data Scientists are In-Demand__
