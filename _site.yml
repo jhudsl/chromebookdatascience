@@ -7,6 +7,10 @@ navbar:
       href: index.html
     - text: "Partners"
       href: partners.html
+    - text: "Curriculum"
+      href: curriculum.html
+    - text: "Team"
+      href: team.html
 output:
   html_document:
     theme: paper
