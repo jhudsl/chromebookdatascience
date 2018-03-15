@@ -14,8 +14,8 @@ GitHub | [GitHub](#GitHub) |
 Introduction to R | [R ](#introduction-to-r) |
 Data & Getting Data | [Data](#data-&-getting-data) |
 Data Cleaning & Wrangling | [Data Wrangling](#data-cleaning-&-wrangling) |
-Data Visualization | [Data Vis](#data-vis) |
-Basics of Data Analysis | [Data Analysis](#data-analysis) |
+Data Visualization | [Data Vis](#data-visualization) |
+Basics of Data Analysis | [Data Analysis](#basics-of-data-analysis) |
 Machine Learning | [Machine Learning](#machine-learning) |
 Data Products | [Data Products](#data-products) |
 
