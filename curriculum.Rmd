@@ -9,11 +9,11 @@ Class | Course Page | Links
 ---------------------|-------------------|----------------
 Introduction and Setup | [Intro](#introduction-and-setup) | 
 Google and the Cloud | [Google](#google-and-the-cloud) |
-File Organization & Projects | [File Org](#file-organization-&-products) |
-GitHub | [GitHub](#github) | 
-Introduction to R | [R ](#r-basics) |
-Data & Getting Data | [Data](#data) |
-Data Cleaning & Wrangling | [Data Wrangling](#data-wrangling) |
+File Organization & Projects | [File Org](#file-organization-&-projects) |
+GitHub | [GitHub](#GitHub) | 
+Introduction to R | [R ](#introduction-to-r) |
+Data & Getting Data | [Data](#data-&-getting-data) |
+Data Cleaning & Wrangling | [Data Wrangling](#data-cleaning-&-wrangling) |
 Data Visualization | [Data Vis](#data-vis) |
 Basics of Data Analysis | [Data Analysis](#data-analysis) |
 Machine Learning | [Machine Learning](#machine-learning) |
