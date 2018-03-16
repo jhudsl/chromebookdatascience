@@ -10,7 +10,7 @@ title: "Our team"
 ```{r,echo=FALSE,warning=FALSE}
 source("helper.R")
 two_column_fixed_height(text = "Jeff Leek is the director of Chromebook Data Science. He has taught millions of people data science online through massive online open courses. He is also an associate professor at Johns Hopkins Bloomberg School of Public Health and co-director of the Johns Hopkins Data Science Lab. ",
-                        img ="./img/jeff.png",
+                        img ="./img/team/jeff.png",
                         link="http://jtleek.com/", linktext="More about Jeff")
 ```
 
@@ -22,7 +22,7 @@ two_column_fixed_height(text = "Jeff Leek is the director of Chromebook Data Sci
 ```{r,echo=FALSE,warning=FALSE}
 source("helper.R")
 two_column_fixed_height(text = "Shannon Ellis is a postdoctoral fellow in the biostatistics department at the Johns Hopkins Bloomberg School of Public Health who is working on machine learning for predicting phenotypes like tissue, sex, and age from gene expression data. ",
-                        img = "./img/shannon.png",
+                        img = "./img/team/shannon.png",
                         link="https://shanellis.github.io/about/",
                         linktext="More about Shannon.")
 ```
@@ -32,7 +32,7 @@ two_column_fixed_height(text = "Shannon Ellis is a postdoctoral fellow in the bi
 ```{r,echo=FALSE,warning=FALSE}
 source("helper.R")
 two_column_fixed_height(text = "Aboozar Hadavand is a postdoctoral fellow at Johns Hopkins Bloomberg School of Public Health. His current research involves analyzing MOOC data. ",
-                        img = "./img/aboozar.png",
+                        img = "./img/team/aboozar.png",
                         link="http://ahadavand.com/",
                         linktext="More about Aboozar")
 ```
@@ -42,7 +42,7 @@ two_column_fixed_height(text = "Aboozar Hadavand is a postdoctoral fellow at Joh
 ```{r,echo=FALSE,warning=FALSE}
 source("helper.R")
 two_column_fixed_height(text = "John Muschelli is a research faculty at Johns Hopkins Bloomberg School of Public Health. He has created over 30 packages for data analysis and works in statistical data analysis of neuroimaging data. ",
-                        img = "./img/john.png",
+                        img = "./img/team/john.png",
                         link="http://johnmuschelli.com/",
                         linktext="More about John")
 ```
@@ -55,7 +55,7 @@ two_column_fixed_height(text = "John Muschelli is a research faculty at Johns Ho
 ```{r,echo=FALSE,warning=FALSE}
 source("helper.R")
 two_column_fixed_height(text = "Leo Collado-Torres is part of the Data Science team at the Lieber Institute for Brain Development whose goals include better understanding and characterizing genomics signatures in the human brain. ",
-                        img = "./img/leo.png",
+                        img = "./img/team/leo.png",
                         link="http://lcolladotor.github.io/",
                         linktext="More about Leo")
 ```
@@ -65,7 +65,7 @@ two_column_fixed_height(text = "Leo Collado-Torres is part of the Data Science t
 ```{r,echo=FALSE,warning=FALSE}
 source("helper.R")
 two_column_fixed_height(text = "Leah Jager is an assistant scientists and lecturers at the Department of Biostatistics at Johns Hopkins Bloomberg School of Public Health. She teaches biostatistics, data analysis, and statistical methods in public health ",
-                        img = "./img/leah.png",
+                        img = "./img/team/leah.png",
                         link="https://www.jhsph.edu/faculty/directory/profile/2909/leah-r-jager",
                         linktext="More about Leah")
 ```
@@ -75,7 +75,7 @@ two_column_fixed_height(text = "Leah Jager is an assistant scientists and lectur
 ```{r,echo=FALSE,warning=FALSE}
 source("helper.R")
 two_column_fixed_height(text = "Kai Kammers is an Assistant Professor of Oncology at Johns Hopkins University School of Medicine. His current research focuses on developing new statistical methods and software tools for the integrative analysis of high-throughput genomic data, including sequencing and proteomic data. ",
-                        img = "./img/kai.png",
+                        img = "./img/team/kai.png",
                         link="https://www.hopkinsmedicine.org/profiles/results/directory/profile/10003673/kai-kammers",
                         linktext="More about Kai")
 ```
@@ -85,7 +85,7 @@ two_column_fixed_height(text = "Kai Kammers is an Assistant Professor of Oncolog
 ```{r,echo=FALSE,warning=FALSE}
 source("helper.R")
 two_column_fixed_height(text = "Sarah McClymont is a PhD candidate in Human Genetics at Johns Hopkins University School of Medicine. Her research involves identifying and characterizing regulatory regions of DNA in dopaminergic neurons to elucidate the role of regulatory variation in neurodegenerative and neuropsychiatric diseases, like Parkinson Disease and schizophrenia. ",
-                        img = "./img/sarah.png",
+                        img = "./img/team/sarah.png",
                         link="https://www.linkedin.com/in/sarahmcclymont/",
                         linktext="More about Sarah")
 ```
@@ -95,7 +95,7 @@ two_column_fixed_height(text = "Sarah McClymont is a PhD candidate in Human Gene
 ```{r,echo=FALSE,warning=FALSE}
 source("helper.R")
 two_column_fixed_height(text = "Leslie Mying holds a PhD degree in biostatistics at the Johns Hopkins Bloomberg School of Public Health. Her research is on statistical methodology for high-throughput biology and evidence-based data analysis. ",
-                        img = "./img/leslie.png",
+                        img = "./img/team/leslie.png",
                         link="https://lmyint.github.io/",
                         linktext="More about Leslie")
 ```
@@ -105,7 +105,7 @@ two_column_fixed_height(text = "Leslie Mying holds a PhD degree in biostatistics
 ```{r,echo=FALSE,warning=FALSE}
 source("helper.R")
 two_column_fixed_height(text = "Margaret Taub is an Assistant Scientist in the Department of Biostatistics at Johns Hopkins University. She works on methods development in statistical genetics and on analysis problems for high-throughput genomics data, including methylation array data and re-sequencing data. ",
-                        img = "./img/margaret.png",
+                        img = "./img/team/margaret.png",
                         link="http://www.biostat.jhsph.edu/~mtaub/About.html",
                         linktext="More about Margaret")
 ```
@@ -115,7 +115,7 @@ two_column_fixed_height(text = "Margaret Taub is an Assistant Scientist in the D
 ```{r,echo=FALSE,warning=FALSE}
 source("helper.R")
 two_column_fixed_height(text = "Sara Wang is a PhD candidate in the Department of Biostatistics at Johns Hopkins University. ",
-                        img = "./img/siruo.png",
+                        img = "./img/team/siruo.png",
                         link="",
                         linktext="More about Siruo.")
 ```

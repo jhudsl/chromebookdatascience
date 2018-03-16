@@ -5,12 +5,12 @@ navbar:
   left:
   - text: Home
     href: index.html
-  - text: Partners
-    href: partners.html
-  - text: Curriculum
-    href: curriculum.html
   - text: Why data science
     href: WhyDataScience.html
+  - text: Curriculum
+    href: curriculum.html
+  - text: Partners
+    href: partners.html
   - text: Team
     href: team.html
   - text: Contact Us
@@ -21,4 +21,5 @@ output:
     highlight: textmate
     lib_dir: site_libs
     self_contained: no
+    css: styles.css
 

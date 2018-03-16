@@ -12,7 +12,7 @@ title: ""
 
 ```{r,echo=FALSE,warning=FALSE}
 source("helper.R")
-two_column("Routine and manual jobs are rapidly being automated using newly developed computer, robotic, and machine learning technologies. This trend will accelerate over time.","./img/01_index.png")
+two_column("Routine and manual jobs are rapidly being automated using newly developed computer, robotic, and machine learning technologies. This trend will accelerate over time.","./img/index/01_index.png")
 ```
 
 -----
@@ -21,7 +21,7 @@ two_column("Routine and manual jobs are rapidly being automated using newly deve
 
 ```{r,echo=FALSE,warning=FALSE}
 source("helper.R")
-two_column("At the same time there is strong and growing demand for people with skills in data processing, analysis, and reporting.","./img/02_index.png",iside="right")
+two_column("At the same time there is strong and growing demand for people with skills in data processing, analysis, and reporting.","./img/index/02_index.png",iside="right")
 ```
 
 -----
@@ -30,7 +30,7 @@ two_column("At the same time there is strong and growing demand for people with 
 
 ```{r,echo=FALSE,warning=FALSE}
 source("helper.R")
-two_column("But people who are currently unemployed or employed in manual or other low tech jobs face barriers to transitioning to data science jobs. The high cost of computing, education, and the centralization of jobs in high-cost metro areas prevent career transitions.","./img/04_index.png",iside="left")
+two_column("But people who are currently unemployed or employed in manual or other low tech jobs face barriers to transitioning to data science jobs. The high cost of computing, education, and the centralization of jobs in high-cost metro areas prevent career transitions.","./img/index/04_index.png",iside="left")
 ```
 
 ------
@@ -40,20 +40,20 @@ two_column("But people who are currently unemployed or employed in manual or oth
 
 ```{r,echo=FALSE,warning=FALSE}
 source("helper.R")
-two_column("We have developed a curriculum that is fully cloud based to allow students to do data science with cheap laptops like Chromebooks.","./img/chromebook.png",iside="right")
+two_column("We have developed a curriculum that is fully cloud based to allow students to do data science with cheap laptops like Chromebooks.","./img/index/chromebook.png",iside="right")
 ```
 
 -----
 
 ```{r,echo=FALSE,warning=FALSE}
 source("helper.R")
-two_column("It is possible to complete our Chromebook Data Science program entirely online, for free. We couple will our online curriculum with in person tutoring and support to ensure equal access for individuals who have not been traditionally well served by online programs.","./img/08_index.png",iside="left",link="./curriculum.html", linktext="See our curriculum")
+two_column("It is possible to complete our Chromebook Data Science program entirely online, for free. We couple will our online curriculum with in person tutoring and support to ensure equal access for individuals who have not been traditionally well served by online programs.","./img/index/08_index.png",iside="left",link="./curriculum.html", linktext="See our curriculum")
 ```
 
 -----
 
 ```{r,echo=FALSE,warning=FALSE}
 source("helper.R")
-two_column("We partner with companies who need to fill data science roles to place our graduates in remote data science jobs. If you are looking for data scientists consider becoming a Chromebook Data Science hiring partner. ","./img/remotework.png",iside="right", link="./partners.html",linktext="Become a Hiring Partner")
+two_column("We partner with companies who need to fill data science roles to place our graduates in remote data science jobs. If you are looking for data scientists consider becoming a Chromebook Data Science hiring partner. ","./img/index/remotework.png",iside="right", link="./partners.html",linktext="Become a Hiring Partner")
 ```
 
