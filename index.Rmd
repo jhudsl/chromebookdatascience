@@ -40,7 +40,7 @@ two_column("But people who are currently unemployed or employed in manual or oth
 
 ```{r,echo=FALSE,warning=FALSE}
 source("helper.R")
-two_column("We have developed a curriculum that is fully cloud based to allow students to do data science with cheap laptops like Chromebooks.","./img/05_index.png",iside="right")
+two_column("We have developed a curriculum that is fully cloud based to allow students to do data science with cheap laptops like Chromebooks.","./img/chromebook.png",iside="right")
 ```
 
 -----
