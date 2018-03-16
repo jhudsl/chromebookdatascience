@@ -9,11 +9,11 @@ navbar:
     href: partners.html
   - text: Curriculum
     href: curriculum.html
-  - text: Team
-    href: team.html
   - text: Why data science
     href: WhyDataScience.html
-  - text: Contact US
+  - text: Team
+    href: team.html
+  - text: Contact Us
     href: contact.html
 output:
   html_document:

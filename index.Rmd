@@ -47,7 +47,7 @@ two_column("We have developed a curriculum that is fully cloud based to allow st
 
 ```{r,echo=FALSE,warning=FALSE}
 source("helper.R")
-two_column("It is possible to complete our Chromebook Data Science program entirely online, for free. We couple will our online curriculum with in person tutoring and support to ensure equal access for individuals who have not been traditionally well served by online programs.","./img/06_index.png",iside="left",link="./comingsoon.html", linktext="See our curriculum")
+two_column("It is possible to complete our Chromebook Data Science program entirely online, for free. We couple will our online curriculum with in person tutoring and support to ensure equal access for individuals who have not been traditionally well served by online programs.","./img/08_index.png",iside="left",link="./curriculum.html", linktext="See our curriculum")
 ```
 
 -----
