@@ -54,6 +54,6 @@ two_column("It is possible to complete our Chromebook Data Science program entir
 
 ```{r,echo=FALSE,warning=FALSE}
 source("helper.R")
-two_column("We partner with companies who need to fill data science roles to place our graduates in remote data science jobs. If you are looking for data scientists consider becoming a Chromebook Data Science hiring partner. ","./img/07_index.png",iside="right", link="./partners.html",linktext="Become a Hiring Partner")
+two_column("We partner with companies who need to fill data science roles to place our graduates in remote data science jobs. If you are looking for data scientists consider becoming a Chromebook Data Science hiring partner. ","./img/remotework.png",iside="right", link="./partners.html",linktext="Become a Hiring Partner")
 ```
 
