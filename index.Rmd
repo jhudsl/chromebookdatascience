@@ -8,52 +8,56 @@ title: ""
 
 -----
 
-## __The problem__
-
 ```{r,echo=FALSE,warning=FALSE}
-source("helper.R")
-two_column("Routine and manual jobs are rapidly being automated using newly developed computer, robotic, and machine learning technologies. This trend will accelerate over time.","./img/01_index.png")
+source("helper2.R")
+two_column("The problem","Routine and manual jobs are rapidly being automated using newly developed computer, robotic, and machine learning technologies. This trend will accelerate over time.","./img/01_index.png")
 ```
 
 -----
 
-## __A solution__
-
 ```{r,echo=FALSE,warning=FALSE}
-source("helper.R")
-two_column("At the same time there is strong and growing demand for people with skills in data processing, analysis, and reporting.","./img/02_index.png",iside="right")
+source("helper2.R")
+two_column("A solution","At the same time there is strong and growing demand for people with skills in data processing, analysis, and reporting.","./img/02_index.png",iside="right")
 ```
 
 -----
 
-## __Challenges__
+## ____
 
 ```{r,echo=FALSE,warning=FALSE}
-source("helper.R")
-two_column("But people who are currently unemployed or employed in manual or other low tech jobs face barriers to transitioning to data science jobs. The high cost of computing, education, and the centralization of jobs in high-cost metro areas prevent career transitions.","./img/04_index.png",iside="left")
+source("helper2.R")
+two_column("Challenges","But people who are currently unemployed or employed in manual or other low tech jobs face barriers to transitioning to data science jobs. The high cost of computing, education, and the centralization of jobs in high-cost metro areas prevent career transitions.","./img/04_index.png",iside="left")
 ```
 
 ------
 
-## __Our approach__
+<center> <h1> <strong> Our approach </strong> </h1> </center>
 
+</br>
 
 ```{r,echo=FALSE,warning=FALSE}
-source("helper.R")
-two_column("We have developed a curriculum that is fully cloud based to allow students to do data science with cheap laptops like Chromebooks.","./img/chromebook.png",iside="right")
+source("helper2.R")
+two_column("Minimize computer costs","We have developed a curriculum that is fully cloud based to allow students to do data science with cheap laptops like Chromebooks.","./img/chromebook.png",iside="right")
 ```
 
 -----
 
 ```{r,echo=FALSE,warning=FALSE}
-source("helper.R")
-two_column("It is possible to complete our Chromebook Data Science program entirely online, for free. We couple will our online curriculum with in person tutoring and support to ensure equal access for individuals who have not been traditionally well served by online programs.","./img/08_index.png",iside="left",link="./curriculum.html", linktext="See our curriculum")
+source("helper2.R")
+two_column("Free courses","It is possible to complete our Chromebook Data Science program entirely online, for free. We couple will our online curriculum with in person tutoring and support to ensure equal access for individuals who have not been traditionally well served by online programs.","./img/08_index.png",iside="left",link="./curriculum.html", linktext="See our curriculum")
 ```
 
 -----
 
 ```{r,echo=FALSE,warning=FALSE}
-source("helper.R")
-two_column("We partner with companies who need to fill data science roles to place our graduates in remote data science jobs. If you are looking for data scientists consider becoming a Chromebook Data Science hiring partner. ","./img/remotework.png",iside="right", link="./partners.html",linktext="Become a Hiring Partner")
+source("helper2.R")
+two_column("Allow remote work","Data science work can be done from anywhere there is an Internet connection. Chromebook Data Science can be completed from anywhere. ","./img/remotework.png",iside="right")
+```
+
+-----
+
+```{r,echo=FALSE,warning=FALSE}
+source("helper2.R")
+two_column("Faciliate Networking","We partner with companies who need to fill data science roles to place our graduates in remote data science jobs. If you are looking for data scientists consider becoming a Chromebook Data Science hiring partner. ","./img/remotework.png", link="./partners.html",linktext="Become a Hiring Partner")
 ```
 

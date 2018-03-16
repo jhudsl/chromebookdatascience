@@ -1,5 +1,7 @@
 library(htmltools)
 
+## adds title above text 
+
 two_column <- function(title,text, 
                        img, 
                        link = NULL,
