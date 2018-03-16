@@ -1,0 +1,35 @@
+---
+title: ""
+---
+
+</br></br>
+
+## What do you mean by data science?
+
+> Data science is the process of formulating a quantitative question that can be answered with data, collecting and cleaning the data, analyzing the data, and communicating the answer to the question to a relevant audience
+
+See [Jeff's post about Data Science](https://simplystatistics.org/2015/03/17/data-science-done-well-looks-easy-and-that-is-a-big-problem-for-data-scientists/) for more information.
+
+
+## Do I need a college degree to join?
+
+No!  The only requirements that you need are a standard high school background in mathematics (such as algebra) and the ability to use a computer.  Our classes require an internet connection, which is usually available at a local library if you do not have one at home.
+
+## Do I need to know how to program?
+
+No - we will teach you the skills you need to know to be an effective data scientist.  
+
+## What do I need then?
+
+The main thing you need is the hunger to learn.  Most of the courses are self-guided and require you to push yourself to complete them.  Before all else, this is the most important quality in a student who is successful in the program. You need a Chromebook or a computer with the ability to connect to the internet.  
+
+
+## Do I need to move to Baltimore?
+
+No!  The main point of Chromebook Data Science is to be able to work remotely.  We will have in-person sessions in Baltimore but we will use meeting software, similar to Skype, to allows off-site people to still call in and ask questions.  We will also have other ways to contact the team when you have questions or need help.
+
+## How do I join?
+
+Our first class is rolling out in late April, 2018 and more information will be located on the main site.
+
+
