@@ -37,7 +37,7 @@ two_column("Challenges","But people who are currently unemployed or employed in 
 
 ```{r,echo=FALSE,warning=FALSE}
 source("helper2.R")
-two_column("Minimize computer costs","We have developed a curriculum that is fully cloud based to allow students to do data science with cheap laptops like Chromebooks.","./img/index/chromebook.png",iside="right")
+two_column("Minimize computer costs","We have developed a curriculum that is fully cloud based to allow students to do data science with cheap laptops like Chromebooks.","./img/index/chromebook.png",link="https://www.google.com/chromebook/",linktext="Learn more about Google Chromebook", iside="right")
 ```
 
 -----
