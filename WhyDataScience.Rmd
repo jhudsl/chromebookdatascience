@@ -5,7 +5,7 @@ title: "Why Data Science?"
 
 ```{r,echo=FALSE,warning=FALSE}
 source("helper2.R")
-two_column("Data Scientists are In-Demand","In 2015 there were more than 2.5 million job listings for data scientists and analysts. And, by 2020, 15% growth is projected in the field. With a growing field, there are many jobs available.","./img/why_data_science/growth.jpg")
+two_column("Data Scientists are In-Demand","In 2015 there were more than 2.5 million job listings for data scientists and analysts. And, by 2020, 15% growth is projected in the field. With a growing field, there are many jobs available.","./img/why_data_science/growth.png")
 ```
 
 -----
@@ -19,7 +19,7 @@ two_column("Rated Best Job In America","According to Glassdoor, data scientist w
 
 ```{r,echo=FALSE,warning=FALSE}
 source("helper2.R")
-two_column("Work on Interesting Projects","Data Scientists work with data on projects across many different topics. Some work to improve our health, Others help companies make more money. And, others develop apps to help us understand data better. The possibilities are endless. Learning the skills to become a data scientist opens up these possibilities.","./img/why_data_science/dataanalysis.jpg")
+two_column("Work on Interesting Projects","Data Scientists work with data on projects across many different topics. Some work to improve our health, Others help companies make more money. And, others develop apps to help us understand data better. The possibilities are endless. Learning the skills to become a data scientist opens up these possibilities.","./img/why_data_science/dataanalysis.png")
 ```
 
 -----
