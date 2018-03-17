@@ -117,7 +117,7 @@ source("helper.R")
 two_column_fixed_height(text = "Sara Wang is a PhD candidate in the Department of Biostatistics at Johns Hopkins University. ",
                         img = "./img/team/siruo.png",
                         link="",
-                        linktext="More about Siruo.")
+                        linktext="More about Sara.")
 ```
 
 -------
