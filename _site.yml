@@ -5,8 +5,6 @@ navbar:
   left:
   - text: Home
     href: index.html
-  - text: Why data science
-    href: WhyDataScience.html
   - text: Curriculum
     href: curriculum.html
   - text: Partners

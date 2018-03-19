@@ -4,32 +4,24 @@ title: ""
 
 </br></br>
 
-### Chromebook Data Science is an online educational program created by a [team](./soon.html) the [Johns Hopkins Data Science Lab](http://jhudatascience.org/). Chromebook Data Science is a sequence of [courses](./soon.html) that assumes basic computer literacy as a pre-requisite and builds to performing basic data science skills. Our [philosophy](./soon.html) is to make data science a completely cloud based activity so people can work from where they are rather than being forced to move to high cost centers of data science. If you are a company looking for well-trained data scientists and want to support Chromebook Data Science consider becoming a [partner organization](./partners.html). 
+## Chromebook Data Science is a free online educational [program](./curriculum.html) to help anyone who can read, write, and use a computer to move into data science, the [number one rated job](https://www.glassdoor.com/List/Best-Jobs-in-America-LST_KQ0,20.htm).
 
 -----
 
 ```{r,echo=FALSE,warning=FALSE}
 source("helper2.R")
-two_column("The problem","Routine and manual jobs are rapidly being automated using newly developed computer, robotic, and machine learning technologies. This trend will accelerate over time.","./img/index/01_index.png")
+two_column("Why data science?","Data science is the number one rated job by Glassdoor and there are more than 350,000 new data science expected by 2020.
+.","./img/why_data_science/dataanalysis.jpg")
 ```
+
 
 -----
 
 ```{r,echo=FALSE,warning=FALSE}
 source("helper2.R")
-two_column("A solution","At the same time there is strong and growing demand for people with skills in data processing, analysis, and reporting.","./img/index/02_index.png",iside="right")
+two_column("Challenges","But people who are currently unemployed, or employed in retail or other low tech jobs face hurdles to getting data science jobs. The high cost of computers, education, and the fact that most jobs are in high-cost metro areas prevent people from getting into data science jobs.","./img/index/04_index.png",iside="left")
 ```
 
------
-
-## ____
-
-```{r,echo=FALSE,warning=FALSE}
-source("helper2.R")
-two_column("Challenges","But people who are currently unemployed or employed in manual or other low tech jobs face barriers to transitioning to data science jobs. The high cost of computing, education, and the centralization of jobs in high-cost metro areas prevent career transitions.","./img/index/04_index.png",iside="left")
-```
-
-------
 
 <center> <h1> <strong> Our approach </strong> </h1> </center>
 
@@ -37,14 +29,14 @@ two_column("Challenges","But people who are currently unemployed or employed in 
 
 ```{r,echo=FALSE,warning=FALSE}
 source("helper2.R")
-two_column("Minimize computer costs","We have developed a curriculum that is fully cloud based to allow students to do data science with cheap laptops like Chromebooks.","./img/index/chromebook.png",link="https://www.google.com/chromebook/",linktext="Learn more about Google Chromebook", iside="right")
+two_column("We minimize computer costs","We have developed an online program that lets students do data science using only a web browser and cheap computers like Chromebooks.","./img/index/chromebook.png",link="https://www.google.com/chromebook/",linktext="Learn more about Google Chromebook", iside="right")
 ```
 
 -----
 
 ```{r,echo=FALSE,warning=FALSE}
 source("helper2.R")
-two_column("Free courses","It is possible to complete our Chromebook Data Science program entirely online, for free. We couple will our online curriculum with in person tutoring and support to ensure equal access for individuals who have not been traditionally well served by online programs.","./img/index/08_index.png",iside="left",link="./curriculum.html", linktext="See our curriculum")
+two_column("Free courses","Our Chromebook Data Science program is entirely online and you can take it for free. You can take the classes any time and at your own pace. You get a certificate for each Johns Hopkins online class from Leanpub.","./img/index/08_index.png",iside="left",link="./curriculum.html", linktext="See our curriculum")
 ```
 
 
@@ -59,6 +51,10 @@ two_column("Allow remote work","Data science work can be done from anywhere ther
 
 ```{r,echo=FALSE,warning=FALSE}
 source("helper2.R")
-two_column("Faciliate Networking","We partner with companies who need to fill data science roles to place our graduates in remote data science jobs. If you are looking for data scientists consider becoming a Chromebook Data Science hiring partner. ","./img/index/networking.png", link="./partners.html",linktext="Become a Hiring Partner")
+two_column("Helping find jobs","Our program covers soft skills you need to get data science jobs, including how to network and get your name out there. We are also working with partner companies who need to fill data science roles to place our graduates in remote and local data science jobs. (If you are looking for data scientists consider becoming a Chromebook Data Science hiring partner). ","./img/index/networking.png", link="./partners.html",linktext="Become a Hiring Partner")
 ```
 
+
+<br> 
+
+### More questions? Great! Check out our [frequently asked questions](faq.html), learn about our [team](team.html) or [contact us](contact.html).

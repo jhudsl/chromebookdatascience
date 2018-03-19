@@ -20,8 +20,8 @@
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
-<link href="site_libs/highlightjs-9.12.0/textmate.css" rel="stylesheet" />
-<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+<link href="site_libs/highlightjs-1.1/textmate.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-1.1/highlight.js"></script>
 
 <style type="text/css">code{white-space: pre;}</style>
 <style type="text/css">
@@ -30,12 +30,10 @@
   }
 </style>
 <script type="text/javascript">
-if (window.hljs) {
-  hljs.configure({languages: []});
-  hljs.initHighlightingOnLoad();
-  if (document.readyState && document.readyState === "complete") {
-    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
-  }
+if (window.hljs && document.readyState && document.readyState === "complete") {
+   window.setTimeout(function() {
+      hljs.initHighlighting();
+   }, 0);
 }
 </script>
 
@@ -182,9 +180,6 @@ $(document).ready(function () {
   <a href="index.html">Home</a>
 </li>
 <li>
-  <a href="WhyDataScience.html">Why data science</a>
-</li>
-<li>
   <a href="curriculum.html">Curriculum</a>
 </li>
 <li>
@@ -216,36 +211,22 @@ $(document).ready(function () {
 
 
 <p></br></br></p>
-<div id="chromebook-data-science-is-an-online-educational-program-created-by-a-team-the-johns-hopkins-data-science-lab.-chromebook-data-science-is-a-sequence-of-courses-that-assumes-basic-computer-literacy-as-a-pre-requisite-and-builds-to-performing-basic-data-science-skills.-our-philosophy-is-to-make-data-science-a-completely-cloud-based-activity-so-people-can-work-from-where-they-are-rather-than-being-forced-to-move-to-high-cost-centers-of-data-science.-if-you-are-a-company-looking-for-well-trained-data-scientists-and-want-to-support-chromebook-data-science-consider-becoming-a-partner-organization." class="section level3">
-<h3>Chromebook Data Science is an online educational program created by a <a href="./soon.html">team</a> the <a href="http://jhudatascience.org/">Johns Hopkins Data Science Lab</a>. Chromebook Data Science is a sequence of <a href="./soon.html">courses</a> that assumes basic computer literacy as a pre-requisite and builds to performing basic data science skills. Our <a href="./soon.html">philosophy</a> is to make data science a completely cloud based activity so people can work from where they are rather than being forced to move to high cost centers of data science. If you are a company looking for well-trained data scientists and want to support Chromebook Data Science consider becoming a <a href="./partners.html">partner organization</a>.</h3>
+<div id="chromebook-data-science-is-a-free-online-educational-program-to-help-anyone-who-can-read-write-and-use-a-computer-to-move-into-data-science-the-number-one-rated-job." class="section level2">
+<h2>Chromebook Data Science is a free online educational <a href="./curriculum.html">program</a> to help anyone who can read, write, and use a computer to move into data science, the <a href="https://www.glassdoor.com/List/Best-Jobs-in-America-LST_KQ0,20.htm">number one rated job</a>.</h2>
 <hr />
 <div class="row">
 <div class="col-sm-6">
-<img src="img/index/01_index.png" width="100%"/>
+<img src="./img/why_data_science/dataanalysis.jpg" width="100%"/>
 </div>
 <div class="col-sm-6">
 <h2>
-<strong>The problem</strong>
+<strong>Why data science?</strong>
 </h2>
-<h3>Routine and manual jobs are rapidly being automated using newly developed computer, robotic, and machine learning technologies. This trend will accelerate over time.</h3>
+<h3>Data science is the number one rated job by Glassdoor and there are more than 350,000 new data science expected by 2020.
+.</h3>
 </div>
 </div>
 <hr />
-<div class="row">
-<div class="col-sm-6">
-<h2>
-<strong>A solution</strong>
-</h2>
-<h3>At the same time there is strong and growing demand for people with skills in data processing, analysis, and reporting.</h3>
-</div>
-<div class="col-sm-6">
-<img src="img/index/02_index.png" width="100%"/>
-</div>
-</div>
-<hr />
-</div>
-<div id="section" class="section level2">
-<h2>____</h2>
 <div class="row">
 <div class="col-sm-6">
 <img src="img/index/04_index.png" width="100%"/>
@@ -254,10 +235,9 @@ $(document).ready(function () {
 <h2>
 <strong>Challenges</strong>
 </h2>
-<h3>But people who are currently unemployed or employed in manual or other low tech jobs face barriers to transitioning to data science jobs. The high cost of computing, education, and the centralization of jobs in high-cost metro areas prevent career transitions.</h3>
+<h3>But people who are currently unemployed, or employed in retail or other low tech jobs face hurdles to getting data science jobs. The high cost of computers, education, and the fact that most jobs are in high-cost metro areas prevent people from getting into data science jobs.</h3>
 </div>
 </div>
-<hr />
 <center>
 <h1>
 <strong> Our approach </strong>
@@ -267,9 +247,9 @@ $(document).ready(function () {
 <div class="row">
 <div class="col-sm-6">
 <h2>
-<strong>Minimize computer costs</strong>
+<strong>We minimize computer costs</strong>
 </h2>
-<h3>We have developed a curriculum that is fully cloud based to allow students to do data science with cheap laptops like Chromebooks.</h3>
+<h3>We have developed an online program that lets students do data science using only a web browser and cheap computers like Chromebooks.</h3>
 <a href="https://www.google.com/chromebook/">Learn more about Google Chromebook</a>
 </div>
 <div class="col-sm-6">
@@ -285,7 +265,7 @@ $(document).ready(function () {
 <h2>
 <strong>Free courses</strong>
 </h2>
-<h3>It is possible to complete our Chromebook Data Science program entirely online, for free. We couple will our online curriculum with in person tutoring and support to ensure equal access for individuals who have not been traditionally well served by online programs.</h3>
+<h3>Our Chromebook Data Science program is entirely online and you can take it for free. You can take the classes any time and at your own pace. You get a certificate for each Johns Hopkins online class from Leanpub.</h3>
 <a href="./curriculum.html">See our curriculum</a>
 </div>
 </div>
@@ -308,11 +288,15 @@ $(document).ready(function () {
 </div>
 <div class="col-sm-6">
 <h2>
-<strong>Faciliate Networking</strong>
+<strong>Helping find jobs</strong>
 </h2>
-<h3>We partner with companies who need to fill data science roles to place our graduates in remote data science jobs. If you are looking for data scientists consider becoming a Chromebook Data Science hiring partner. </h3>
+<h3>Our program covers soft skills you need to get data science jobs, including how to network and get your name out there. We are also working with partner companies who need to fill data science roles to place our graduates in remote and local data science jobs. (If you are looking for data scientists consider becoming a Chromebook Data Science hiring partner). </h3>
 <a href="./partners.html">Become a Hiring Partner</a>
 </div>
+</div>
+<p><br></p>
+<div id="more-questions-great-check-out-our-frequently-asked-questions-learn-about-our-team-or-contact-us." class="section level3">
+<h3>More questions? Great! Check out our <a href="faq.html">frequently asked questions</a>, learn about our <a href="team.html">team</a> or <a href="contact.html">contact us</a>.</h3>
 </div>
 </div>
 
