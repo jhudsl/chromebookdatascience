@@ -18,7 +18,7 @@ Data Visualization | [Data Vis](#data-visualization) |
 Basics of Data Analysis | [Data Analysis](#basics-of-data-analysis) |
 Machine Learning | [Machine Learning](#machine-learning) |
 Data Products | [Data Products](#data-products) |
-Getting a job in data science | [Data Science Jobs](#data-jobs) |
+Getting a job in data science | [Data Science Jobs](#getting-a-job-in-data-science) |
 
 Each course is sequential and **requires absolutely no prior coding experience**. If you know how to use an smartphone you're more than qualified to take this course.
 
