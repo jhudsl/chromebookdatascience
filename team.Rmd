@@ -24,7 +24,7 @@ source("helper.R")
 two_column_fixed_height(text = "Shannon Ellis is a postdoctoral fellow in the biostatistics department at the Johns Hopkins Bloomberg School of Public Health who is working on machine learning for predicting phenotypes like tissue, sex, and age from gene expression data. ",
                         img = "./img/team/shannon.png",
                         link="https://shanellis.github.io/about/",
-                        linktext="More about Shannon.")
+                        linktext="More about Shannon")
 ```
 
 -------
@@ -117,7 +117,7 @@ source("helper.R")
 two_column_fixed_height(text = "Sara Wang is a PhD candidate in the Department of Biostatistics at Johns Hopkins University. ",
                         img = "./img/team/siruo.png",
                         link="",
-                        linktext="More about Sara.")
+                        linktext="More about Sara")
 ```
 
 -------

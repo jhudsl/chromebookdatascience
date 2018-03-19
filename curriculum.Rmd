@@ -3,7 +3,7 @@ title: "Chromebook Data Science Curriculum"
 output: html_document
 ---
 
-There are currently eleven courses that are offered in the Chromebook Data Science Curriculum
+There are currently twelve courses that are offered in the Chromebook Data Science Curriculum.
 
 Class | Course Page | Links
 ---------------------|-------------------|----------------
