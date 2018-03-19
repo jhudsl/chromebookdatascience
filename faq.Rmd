@@ -43,11 +43,11 @@ The classes only require access to a computer and an internet connection. If you
 
 ## What does it cost? 
 
-The course materials are free.
+You can pay what you want to take the courses and get the certificates (including nothing at all!). 
 
 ## How much time will it take?
 
-The program is made up of 12 courses. While some courses are shorter than others, in total we estimate that it will take approximately 120 hours to complete. If you work for 10 hours a week, we estimate this program can be completed in three months. 
+The program is made up of 12 courses. While some courses are shorter than others, in total we estimate that it will take approximately 160 hours to complete. 
 
 ## What do I need to start?
 
@@ -63,7 +63,7 @@ No. These courses will teach you the skills you need to know to be an effective 
 
 ## Do I need to be located in Baltimore?
 
-No!  The main point of Chromebook Data Science is to be able to work from anywhere.  We will have in-person sessions in Baltimore, but we will use meeting software, similar to Skype, to allows off-site people to still call in and ask questions.  We will also have other ways to contact the team when you have questions or need help.
+No!  The main point of Chromebook Data Science is to be able to work from anywhere.  We will also have other ways to contact the team when you have questions or need help.
 
 ## How do I join?
 
@@ -71,7 +71,7 @@ Our first class is rolling out in late April, 2018 and more information will be 
 
 ## What types of jobs would I apply to after?
 
-Details coming soon.
+After finishing the program you will be ready to apply for entry level data science, data analyst, and business analyst jobs. We plan on rolling out more courses to help you build your skills as you grow in your job. 
 
 ## What skills will I learn?
 
@@ -79,15 +79,18 @@ The coursework will start with the basics of using Google's web browser (Google 
 
 ## When can I complete the course?
 
+The first courses will be available in late April 2018 and we hope to have the whole program online by the end of May. 
+
+<!-- ## When are the help sessions?
+
 Details coming soon.
 
-## When are the help sessions?
-
-Details coming soon.
 
 ## Can I have another job during the course?
 
 Depending upon the flexibility of your current job, you may be able to have another job while you complete this course. Having another job may slow down your progress, but it is possible to have a job and complete this program. 
+
+-->
 
 ## What do I get upon completion?
 
