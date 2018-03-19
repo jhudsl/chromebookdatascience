@@ -7,7 +7,7 @@ There are currently twelve courses that are offered in the Chromebook Data Scien
 
 Class | Course Page | Links
 ---------------------|-------------------|----------------
-Introduction and Setup | [Intro](#introduction-and-setup) | 
+How to Use A Chromebook | [Intro](#how-to-use-a-chromebook) | 
 Google and the Cloud | [Google](#google-and-the-cloud) |
 File Organization and Projects | [File Org](#file-organization-and-projects) |
 GitHub | [GitHub](#GitHub) | 
@@ -26,8 +26,8 @@ Here's a more extensive breakdown of each course.
 
 -----
 
-## Introduction and Setup
-This course will introduce you to using a Chromebook, the exciting field of data science, important ethical and legal considerations when working in data science, and course expectations. The Introduction and Setup course might sound simple, but it will set up the infrastructure for success with the later, more challenging courses.
+## How To Use A Chromebook
+This course will introduce you to using a Chromebook. The Introduction and Setup course might sound simple, but it will set up the infrastructure for success with the later, more challenging courses.
 
 * Software used: Chrome OS, Chrome
 * Programs used: N/A
@@ -68,7 +68,7 @@ R is a simple to learn programming language that is powerful for data analysis. 
 -----
 
 ## Data and Getting Data 
-Data is often misunderstood in both subject and application. The Data course will focus on understanding what data is, what the data you'll encounter will look like, and how to analyze and use data. Additionally, we'll start to discuss where to find data and how to work with these data in RStudio.
+Data is often misunderstood in both subject and application. The Data course will focus on understanding what data is, what the data you'll encounter will look like, and how to analyze and use data. Additionally, we'll start to discuss important ethical and legal considerations when working in data science, where to find data, and how to work with these data in RStudio.
 
 * Software used: Google Chrome, Google Sheets, Microsoft Excel, RStudio, 
 * Programs used: R, readxl, readr, googlesheets, jsonlite, dbplyr, httr, rvest
