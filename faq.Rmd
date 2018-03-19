@@ -3,24 +3,22 @@ title: "Frequently Asked Questions"
 output: html_document
 ---
 
-</br>
+-----
 
-[What is Chromebook Data Science?](#what-is-chromebook-data-science)  
-[What is Data Science?](#what-is-data-science)  
-[What do I need to complete Chromebook Data Science?](#what-do-i-need-to-complete-chromebook-data-science)  
-[What does it cost?](#what-does-it-cost)  
-[How much time will it take?](#how-much-time-will-it-take)  
-[What do I need to start?](#what-do-i-need-to-start)  
-[Do I need a college degree to join?](#do-i-need-a-college-degree-to-join)  
-[Do I need to know how to program?](#do-i-need-to-know-how-to-program)  
-[Do I need to be located in Baltimore?](#do-i-need-to-be-located-in-baltimore)  
-[How do I join?](#how-do-i-join)  
-[What types of jobs would I apply to after?](#what-types-of-jobs-would-i-apply-to-after)  
-[What skills will I learn?](#what-skills-will-i-learn)  
-[When can I complete the course?](#when-can-i-complete-the-course)  
-[When are the help sessions?](#when-are-the-help-sessions)  
-[Can I have another job during the course?](#can-i-have-another-job-during-the-course)  
-[What do I get upon completion?](#what-do-i-get-upon-completion)  
+####[What is Chromebook Data Science?](#what-is-chromebook-data-science)  
+####[What is Data Science?](#what-is-data-science)  
+####[What does it cost?](#what-does-it-cost)  
+####[How much time will it take?](#how-much-time-will-it-take)  
+####[What do I need to start?](#what-do-i-need-to-start)  
+####[Do I need a college degree to join?](#do-i-need-a-college-degree-to-join)  
+####[Do I need to know how to program?](#do-i-need-to-know-how-to-program)  
+####[Do I need to be located in Baltimore?](#do-i-need-to-be-located-in-baltimore)  
+####[How do I join?](#how-do-i-join)  
+####[What types of jobs would I apply to after?](#what-types-of-jobs-would-i-apply-to-after)  
+####[What skills will I learn?](#what-skills-will-i-learn)  
+####[When can I complete the course?](#when-can-i-complete-the-course)  
+####[When are the help sessions?](#when-are-the-help-sessions)  
+####[Can I have another job during the course?](#can-i-have-another-job-during-the-course)  
 
 -----
 
