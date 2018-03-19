@@ -18,7 +18,7 @@ Data Visualization | [Data Vis](#data-visualization) |
 Basics of Data Analysis | [Data Analysis](#basics-of-data-analysis) |
 Machine Learning | [Machine Learning](#machine-learning) |
 Data Products | [Data Products](#data-products) |
-Getting a job in data science | [Data Science Jobs](#getting-a-job-in-data-science) |
+Getting a Job in Data Science | [Data Science Jobs](#getting-a-job-in-data-science) |
 
 Each course is sequential and **requires absolutely no prior coding experience**. If you know how to use an smartphone you're more than qualified to take this course.
 
@@ -115,7 +115,7 @@ Sharing your results with others and visualizing them in a meaningful way is an 
 
 ------
 
-## Data Science Jobs
+## Getting a Job in Data Science
 After you learn all of these skills, it is still crucial that you learn the best ways to network and get a job in data science. This course will focus on so-called soft skills on how to give presentations, how to present yourself in the online community, how to network, and how to do data science interviews. 
 
 * Software used: All of the above, Twitter, LinkedIn
