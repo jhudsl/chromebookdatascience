@@ -23,6 +23,7 @@ two_column("Challenges","But people who are currently unemployed, or employed in
 ```
 
 ------
+
 <center> <h1> <strong> Our approach </strong> </h1> </center>
 
 ------
