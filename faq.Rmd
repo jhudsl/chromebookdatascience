@@ -1,15 +1,57 @@
 ---
-title: ""
+title: "Frequently Asked Questions"
+output: html_document
 ---
 
-</br></br>
+</br>
 
-## What do you mean by data science?
+[What is Chromebook Data Science?](#what-is-chromebook-data-science)  
+[What is Data Science?](#what-is-data-science)  
+[What do I need to complete Chromebook Data Science?](#what-do-i-need-to-complete-chromebook-data-science)  
+[What does it cost?](#what-does-it-cost)  
+[How much time will it take?](#how-much-time-will-it-take)  
+[What do I need to start?](#what-do-i-need-to-start)  
+[Do I need a college degree to join?](#do-i-need-a-college-degree-to-join)  
+[Do I need to know how to program?](#do-i-need-to-know-how-to-program)  
+[Do I need to be located in Baltimore?](#do-i-need-to-be-located-in-baltimore)  
+[How do I join?](#how-do-i-join)  
+[What types of jobs would I apply to after?](#what-types-of-jobs-would-i-apply-to-after)  
+[What skills will I learn?](#what-skills-will-i-learn)  
+[When can I complete the course?](#when-can-i-complete-the-course)  
+[When are the help sessions?](#when-are-the-help-sessions)  
+[Can I have another job during the course?](#can-i-have-another-job-during-the-course)  
+[What do I get upon completion?](#what-do-i-get-upon-completion)  
 
-> Data science is the process of formulating a quantitative question that can be answered with data, collecting and cleaning the data, analyzing the data, and communicating the answer to the question to a relevant audience
+-----
+
+## What is Chromebook Data Science?
+
+A free online educational program to help anyone who can read, write, and use a computer to move into data science, the number one rated job.
+
+
+## What is data science?
+
+Simply, data science is the process of *using data to answer interesting questions*. More specifically, throughout the course, we define data science to be:
+
+> the process of formulating a quantitative question that can be answered with data, collecting and cleaning the data, analyzing the data, and communicating the answer to the question to a relevant audience.
 
 See [Jeff's post about Data Science](https://simplystatistics.org/2015/03/17/data-science-done-well-looks-easy-and-that-is-a-big-problem-for-data-scientists/) for more information.
 
+## What do I need to complete Chromebook Data Science?
+
+The classes only require access to a computer and an internet connection. If you don't access to these, both are often available at a local library.
+
+## What does it cost? 
+
+The course materials are free.
+
+## How much time will it take?
+
+The program is made up of 12 courses. While some courses are shorter than others, in total we estimate that it will take approximately 120 hours to complete. If you work for 10 hours a week, we estimate this program can be completed in three months. 
+
+## What do I need to start?
+
+You need a Chromebook or a computer with the ability to connect to the internet.  And, you will have to want to learn.  Most of the courses are self-guided and require you to push yourself to complete them. 
 
 ## Do I need a college degree to join?
 
@@ -17,19 +59,36 @@ No!  The only requirements that you need are a standard high school background i
 
 ## Do I need to know how to program?
 
-No - we will teach you the skills you need to know to be an effective data scientist.  
+No. These courses will teach you the skills you need to know to be an effective data scientist.  
 
-## What do I need then?
+## Do I need to be located in Baltimore?
 
-The main thing you need is the hunger to learn.  Most of the courses are self-guided and require you to push yourself to complete them.  Before all else, this is the most important quality in a student who is successful in the program. You need a Chromebook or a computer with the ability to connect to the internet.  
-
-
-## Do I need to move to Baltimore?
-
-No!  The main point of Chromebook Data Science is to be able to work remotely.  We will have in-person sessions in Baltimore but we will use meeting software, similar to Skype, to allows off-site people to still call in and ask questions.  We will also have other ways to contact the team when you have questions or need help.
+No!  The main point of Chromebook Data Science is to be able to work from anywhere.  We will have in-person sessions in Baltimore, but we will use meeting software, similar to Skype, to allows off-site people to still call in and ask questions.  We will also have other ways to contact the team when you have questions or need help.
 
 ## How do I join?
 
 Our first class is rolling out in late April, 2018 and more information will be located on the main site.
 
+## What types of jobs would I apply to after?
 
+Details coming soon.
+
+## What skills will I learn?
+
+The coursework will start with the basics of using Google's web browser (Google Chrome) and Google Products (such as Google Docs and Google Sheets). The coursework will then move to learning how to program in the statistical language R and using software such as Markdown, RStudio, and GitHub. Throughout this program you will learn how to work with data, the basics of data analysis and machine learning, and how to visualize data. You will learn how to carry out projects from start to finish and design your own website.
+
+## When can I complete the course?
+
+Details coming soon.
+
+## When are the help sessions?
+
+Details coming soon.
+
+## Can I have another job during the course?
+
+Depending upon the flexibility of your current job, you may be able to have another job while you complete this course. Having another job may slow down your progress, but it is possible to have a job and complete this program. 
+
+## What do I get upon completion?
+
+Upon completion of each course in the program, you will get a certificate for each Johns Hopkins online class from Leanpub.
