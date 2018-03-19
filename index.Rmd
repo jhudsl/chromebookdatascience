@@ -22,6 +22,7 @@ source("helper2.R")
 two_column("Challenges","But people who are currently unemployed, or employed in retail or other low tech jobs face hurdles to getting data science jobs. The high cost of computers, education, and the fact that most jobs are in high-cost metro areas prevent people from getting into data science jobs.","./img/index/04_index.png",iside="right")
 ```
 
+</br></br>
 
 <center> <h1> <strong> Our approach </strong> </h1> </center>
 
