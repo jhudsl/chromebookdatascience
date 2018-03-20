@@ -31,7 +31,7 @@ two_column_fixed_height(text = "Shannon Ellis is a postdoctoral fellow in the bi
 
 ```{r,echo=FALSE,warning=FALSE}
 source("helper.R")
-two_column_fixed_height(text = "Aboozar Hadavand is a postdoctoral fellow at Johns Hopkins Bloomberg School of Public Health. His current research involves analyzing MOOC data. ",
+two_column_fixed_height(text = "Aboozar Hadavand is a postdoctoral fellow at Johns Hopkins Bloomberg School of Public Health. His current research involves analyzing MOOC data. He has previously taught at Barnard College (Columbia University), Brooklyn College, and Yeshiva University. ",
                         img = "./img/team/aboozar.png",
                         link="http://ahadavand.com/",
                         linktext="More about Aboozar")

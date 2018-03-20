@@ -57,7 +57,8 @@ source("helper2.R")
 two_column("Finding jobs","Our program covers soft skills you need to get data science jobs, including how to network and get your name out there. We are also working with partner companies who need to fill data science roles to place our graduates in remote and local data science jobs. (If you are looking for data scientists consider becoming a Chromebook Data Science hiring partner). ","./img/index/networking.png", link="./partners.html",linktext="Become a Hiring Partner")
 ```
 
-
 <br> 
+
+------
 
 ### More questions? Great! Check out our [frequently asked questions](faq.html), learn about our [team](team.html) or [contact us](contact.html).

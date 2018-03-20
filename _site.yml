@@ -11,10 +11,10 @@ navbar:
     href: partners.html
   - text: Team
     href: team.html
+  - text: FAQs
+    href: faq.html 
   - text: Contact Us
     href: contact.html
-  - text: FAQs
-    href: faq.html    
 output:
   html_document:
     theme: paper
