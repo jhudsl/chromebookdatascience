@@ -2,16 +2,10 @@
 title: "For Employers"
 ---
 
-```{r, echo=FALSE}
-library(htmltools)
-h3("Are you looking for highly trained data scientists? Are you having trouble identifying, attracting, evaluating, and hiring top talent? If you are interested in becoming a hiring partner and hiring remote data workers from our Chromebook Data Science program please complete the survey below.")
-```
+### Are you looking for highly trained data scientists? Are you having trouble identifying, attracting, evaluating, and hiring top talent? If you are interested in becoming a hiring partner and hiring remote data workers from our Chromebook Data Science program please complete the survey below.
 
 ------
 
-### __Survey__
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSccVo3Vytlj5Z3u02APiO_cmVueVe1WDCpxiB_Dpz5Auzwb7A/viewform?embedded=true" width="760" height="2400" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 
-```{r, echo=FALSE}
-HTML('<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSccVo3Vytlj5Z3u02APiO_cmVueVe1WDCpxiB_Dpz5Auzwb7A/viewform?embedded=true" width="760" height="2400" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>')
-```
 
