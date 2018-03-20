@@ -20,8 +20,8 @@
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
-<link href="site_libs/highlightjs-9.12.0/textmate.css" rel="stylesheet" />
-<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+<link href="site_libs/highlightjs-1.1/textmate.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-1.1/highlight.js"></script>
 
 <style type="text/css">code{white-space: pre;}</style>
 <style type="text/css">
@@ -30,12 +30,10 @@
   }
 </style>
 <script type="text/javascript">
-if (window.hljs) {
-  hljs.configure({languages: []});
-  hljs.initHighlightingOnLoad();
-  if (document.readyState && document.readyState === "complete") {
-    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
-  }
+if (window.hljs && document.readyState && document.readyState === "complete") {
+   window.setTimeout(function() {
+      hljs.initHighlighting();
+   }, 0);
 }
 </script>
 
@@ -224,8 +222,8 @@ $(document).ready(function () {
 </thead>
 <tbody>
 <tr class="odd">
-<td>Introduction and Setup</td>
-<td><a href="#introduction-and-setup">Intro</a></td>
+<td>How to Use A Chromebook</td>
+<td><a href="#how-to-use-a-chromebook">Intro</a></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -279,8 +277,8 @@ $(document).ready(function () {
 <td></td>
 </tr>
 <tr class="even">
-<td>Getting a job in data science</td>
-<td><a href="#data-jobs">Data Science Jobs</a></td>
+<td>Getting a Job in Data Science</td>
+<td><a href="#getting-a-job-in-data-science">Data Science Jobs</a></td>
 <td></td>
 </tr>
 </tbody>
@@ -288,9 +286,9 @@ $(document).ready(function () {
 <p>Each course is sequential and <strong>requires absolutely no prior coding experience</strong>. If you know how to use an smartphone you’re more than qualified to take this course.</p>
 <p>Here’s a more extensive breakdown of each course.</p>
 <hr />
-<div id="introduction-and-setup" class="section level2">
-<h2>Introduction and Setup</h2>
-<p>This course will introduce you to using a Chromebook, the exciting field of data science, important ethical and legal considerations when working in data science, and course expectations. The Introduction and Setup course might sound simple, but it will set up the infrastructure for success with the later, more challenging courses.</p>
+<div id="how-to-use-a-chromebook" class="section level2">
+<h2>How To Use A Chromebook</h2>
+<p>This course will introduce you to using a Chromebook. The Introduction and Setup course might sound simple, but it will set up the infrastructure for success with the later, more challenging courses.</p>
 <ul>
 <li>Software used: Chrome OS, Chrome</li>
 <li>Programs used: N/A</li>
@@ -336,7 +334,7 @@ $(document).ready(function () {
 </div>
 <div id="data-and-getting-data" class="section level2">
 <h2>Data and Getting Data</h2>
-<p>Data is often misunderstood in both subject and application. The Data course will focus on understanding what data is, what the data you’ll encounter will look like, and how to analyze and use data. Additionally, we’ll start to discuss where to find data and how to work with these data in RStudio.</p>
+<p>Data is often misunderstood in both subject and application. The Data course will focus on understanding what data is, what the data you’ll encounter will look like, and how to analyze and use data. Additionally, we’ll start to discuss important ethical and legal considerations when working in data science, where to find data, and how to work with these data in RStudio.</p>
 <ul>
 <li>Software used: Google Chrome, Google Sheets, Microsoft Excel, RStudio,</li>
 <li>Programs used: R, readxl, readr, googlesheets, jsonlite, dbplyr, httr, rvest</li>
@@ -388,8 +386,8 @@ $(document).ready(function () {
 </ul>
 <hr />
 </div>
-<div id="data-science-jobs" class="section level2">
-<h2>Data Science Jobs</h2>
+<div id="getting-a-job-in-data-science" class="section level2">
+<h2>Getting a Job in Data Science</h2>
 <p>After you learn all of these skills, it is still crucial that you learn the best ways to network and get a job in data science. This course will focus on so-called soft skills on how to give presentations, how to present yourself in the online community, how to network, and how to do data science interviews.</p>
 <ul>
 <li>Software used: All of the above, Twitter, LinkedIn</li>
