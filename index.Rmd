@@ -18,7 +18,7 @@ two_column("Why data science?","Data science is the number one rated job by Glas
 
 ```{r,echo=FALSE,warning=FALSE}
 source("helper2.R")
-two_column("Challenges","But people who are currently unemployed, or employed in retail or other low tech jobs face hurdles to getting data science jobs. The high cost of computers, education, and the fact that most jobs are in high-cost metro areas prevent people from getting into data science jobs.","./img/index/04_index.png",iside="right")
+two_column("Our goal","Our goal is to help people find good-paying jobs. Our approach provides an opportunity to train for the jobs of the future, without spending money or having to move.","./img/index/04_index.png",iside="right")
 ```
 
 ------
