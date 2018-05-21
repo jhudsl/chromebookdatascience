@@ -20,8 +20,8 @@
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
-<link href="site_libs/highlightjs-1.1/textmate.css" rel="stylesheet" />
-<script src="site_libs/highlightjs-1.1/highlight.js"></script>
+<link href="site_libs/highlightjs-9.12.0/textmate.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
 
 <style type="text/css">code{white-space: pre;}</style>
 <style type="text/css">
@@ -30,10 +30,12 @@
   }
 </style>
 <script type="text/javascript">
-if (window.hljs && document.readyState && document.readyState === "complete") {
-   window.setTimeout(function() {
-      hljs.initHighlighting();
-   }, 0);
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
 }
 </script>
 
@@ -211,7 +213,7 @@ $(document).ready(function () {
 </div>
 
 
-<p>There are currently twelve courses that are offered in the Chromebook Data Science Curriculum.</p>
+<p>The Courses offered in the Chromebook Data Science Series:</p>
 <table>
 <thead>
 <tr class="header">
@@ -232,8 +234,8 @@ $(document).ready(function () {
 <td></td>
 </tr>
 <tr class="odd">
-<td>File Organization and Projects</td>
-<td><a href="#file-organization-and-projects">File Org</a></td>
+<td>Organizing Data Science Projects</td>
+<td><a href="#organizing-data-science-projects">File Org</a></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -247,23 +249,50 @@ $(document).ready(function () {
 <td></td>
 </tr>
 <tr class="even">
-<td>Data and Getting Data</td>
-<td><a href="#data-and-getting-data">Data</a></td>
-<td></td>
-</tr>
-<tr class="odd">
 <td>Data Cleaning and Wrangling</td>
 <td><a href="#data-cleaning-and-wrangling">Data Wrangling</a></td>
 <td></td>
 </tr>
+<tr class="odd">
+<td>Getting Data</td>
+<td><a href="#getting-data">Data</a></td>
+<td></td>
+</tr>
 <tr class="even">
 <td>Data Visualization</td>
-<td><a href="#data-visualization">Data Vis</a></td>
+<td><a href="#data-visualization">Data Viz</a></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td>Basics of Data Analysis</td>
 <td><a href="#basics-of-data-analysis">Data Analysis</a></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Written and Oral Communication in Data Science</td>
+<td><a href="#written-and-oral-communication-in-data-science">Communication</a></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Getting a Job in Data Science</td>
+<td><a href="#getting-a-job-in-data-science">Data Science Jobs</a></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p>An Additional Advanced Track for Chromebook Data Science will have the following courses:</p>
+<table>
+<thead>
+<tr class="header">
+<th>Class</th>
+<th>Course Page</th>
+<th>Links</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Unconventional Data</td>
+<td><a href="#unconventional-data">Unconventional Data</a></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -274,11 +303,6 @@ $(document).ready(function () {
 <tr class="odd">
 <td>Data Products</td>
 <td><a href="#data-products">Data Products</a></td>
-<td></td>
-</tr>
-<tr class="even">
-<td>Getting a Job in Data Science</td>
-<td><a href="#getting-a-job-in-data-science">Data Science Jobs</a></td>
 <td></td>
 </tr>
 </tbody>
@@ -305,8 +329,8 @@ $(document).ready(function () {
 </ul>
 <hr />
 </div>
-<div id="file-organization-and-projects" class="section level2">
-<h2>File Organization and Projects</h2>
+<div id="organizing-data-science-projects" class="section level2">
+<h2>Organizing Data Science Projects</h2>
 <p>Projects are central to the role of any data scientist. These lessons will discuss how to organize projects and the files that are part of each project and will introduce you to Markdown, a simple way to compile text documents to a standard format.</p>
 <ul>
 <li>Software used: Google Chrome, RStudio</li>
@@ -332,15 +356,6 @@ $(document).ready(function () {
 </ul>
 <hr />
 </div>
-<div id="data-and-getting-data" class="section level2">
-<h2>Data and Getting Data</h2>
-<p>Data is often misunderstood in both subject and application. The Data course will focus on understanding what data is, what the data you’ll encounter will look like, and how to analyze and use data. Additionally, we’ll start to discuss important ethical and legal considerations when working in data science, where to find data, and how to work with these data in RStudio.</p>
-<ul>
-<li>Software used: Google Chrome, Google Sheets, Microsoft Excel, RStudio,</li>
-<li>Programs used: R, readxl, readr, googlesheets, jsonlite, dbplyr, httr, rvest</li>
-</ul>
-<hr />
-</div>
 <div id="data-cleaning-and-wrangling" class="section level2">
 <h2>Data Cleaning and Wrangling</h2>
 <p>This course will delve deeper into working with data. Much of what data scientists do involves getting data into a usable format and cleaning the data to make sure that analyses can be done properly. We’ll</p>
@@ -350,12 +365,21 @@ $(document).ready(function () {
 </ul>
 <hr />
 </div>
+<div id="getting-data" class="section level2">
+<h2>Getting Data</h2>
+<p>Data is often misunderstood in both subject and application. The Data course will focus on understanding what data is, what the data you’ll encounter will look like, and how to acquire the data you’ll use for projects. Additionally, we’ll start to discuss important ethical and legal considerations when working in data scienc eand how to work with these data in RStudio.</p>
+<ul>
+<li>Software used: Google Chrome, Google Sheets, Microsoft Excel, RStudio,</li>
+<li>Programs used: R, readxl, readr, googlesheets, jsonlite, dbplyr, httr, rvest</li>
+</ul>
+<hr />
+</div>
 <div id="data-visualization" class="section level2">
 <h2>Data Visualization</h2>
-<p>This course will cover the different types of visualation most commonly used by data scientists as well as how to make these different plots in R. We will cover how to make basic tables and figures as well as how to make interactive graphics.</p>
+<p>This course will cover the different types of visualization most commonly used by data scientists as well as how to make these different plots in R. We will cover how to make basic tables and figures as well as how to make interactive graphics.</p>
 <ul>
 <li>Software used: Google Chrome, RStudio</li>
-<li>Programs used: ggplot2, plotly, gganimate, viz</li>
+<li>Programs used: ggplot2, plotly, gganimate</li>
 </ul>
 <hr />
 </div>
@@ -364,6 +388,33 @@ $(document).ready(function () {
 <p>This course will discuss the various types of data analysis, what to consider when carrying out an analysis, and how to approach a data analysis project.</p>
 <ul>
 <li>Software used: Google Chrome, RStudio</li>
+<li>Programs used: All the above</li>
+</ul>
+<hr />
+</div>
+<div id="written-and-oral-communication-in-data-science" class="section level2">
+<h2>Written and Oral Communication in Data Science</h2>
+<p>While technical skills are incredibly important to data science, effective communication skills are equally as important. This course will cover the forms of written and oral communication most frequently required of data science and how to be an effective data science communicator.</p>
+<ul>
+<li>Software used: All of the above</li>
+<li>Programs used: All of the above</li>
+</ul>
+<hr />
+</div>
+<div id="getting-a-job-in-data-science" class="section level2">
+<h2>Getting a Job in Data Science</h2>
+<p>After you learn all of these skills, it is still crucial that you learn the best ways to network and get a job in data science. This course will focus on so-called soft skills on how to give presentations, how to present yourself in the online community, how to network, and how to do data science interviews.</p>
+<ul>
+<li>Software used: All of the above, Twitter, LinkedIn</li>
+<li>Programs used: All of the above</li>
+</ul>
+<hr />
+</div>
+<div id="unconventional-data" class="section level2">
+<h2>Unconventional Data</h2>
+<p>Data scientists are given data in many forms. Sometimes it’s a simple spreadsheet, but often times it’s not. This course will introduce you to many unconventional types of data and teach you how to work with them effectively in RStudio.</p>
+<ul>
+<li>Software used: jsonlite, dbplyr, httr, rvest</li>
 <li>Programs used: All the above</li>
 </ul>
 <hr />
@@ -383,15 +434,6 @@ $(document).ready(function () {
 <ul>
 <li>Software used: Google Chrome, RStudio, Shiny</li>
 <li>Programs used: All the above</li>
-</ul>
-<hr />
-</div>
-<div id="getting-a-job-in-data-science" class="section level2">
-<h2>Getting a Job in Data Science</h2>
-<p>After you learn all of these skills, it is still crucial that you learn the best ways to network and get a job in data science. This course will focus on so-called soft skills on how to give presentations, how to present yourself in the online community, how to network, and how to do data science interviews.</p>
-<ul>
-<li>Software used: All of the above, Twitter, LinkedIn</li>
-<li>Programs used: All of the above</li>
 </ul>
 </div>
 
