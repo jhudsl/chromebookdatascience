@@ -5,6 +5,9 @@ output: html_document
 
 The Courses offered in the Chromebook Data Science Series:
 
+
+#### **Introductory Track**
+
 Class | Course Page | Links
 ---------------------|-------------------|----------------
 How to Use A Chromebook | [Intro](#how-to-use-a-chromebook) | 
@@ -19,9 +22,7 @@ Basics of Data Analysis | [Data Analysis](#basics-of-data-analysis) |
 Written and Oral Communication in Data Science | [Communication](#written-and-oral-communication-in-data-science) |
 Getting a Job in Data Science | [Data Science Jobs](#getting-a-job-in-data-science) |
 
-
-
-An Additional Advanced Track for Chromebook Data Science will have the following courses:
+#### **Advanced Track**
 
 Class | Course Page | Links
 ---------------------|-------------------|----------------
