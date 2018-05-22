@@ -6,7 +6,7 @@ output: html_document
 There are currently 12 courses that are offered in the Chromebook Data Science Curriculum.
 
 Class | Course Description | Leanpub Link
----------------------|-----------------------------------------|----------------
+------------------------|--------------------------------------------------|-----------
 **Introduction to Chromebook Data Science** | This is the first class in the Chromebook Data Science series. Data science is one of the most exciting and fastest growing careers in the world. The goal of this series is to help people with no background and limited resources transition into data science. The only pre-requisites are a computer with a web browser and the ability to type and follow instructions. We guide you through the rest. | [Course 0](https://leanpub.com/universities/courses/jhu/chromebook-data-science)
 **How to Use A Chromebook** | This course will introduce you to using a Chromebook. The Introduction and Setup course might sound simple, but it will set up the infrastructure for success with the later, more challenging courses. | [Course 1]()
 **Google and the Cloud** | The Google and the Cloud course introduces using Google’s in-built apps, which form the fundamental backbone of a Chromebook. We’ll go step by step through the process to integrating these apps together to form your productivity workflow. | [Course 2]()
