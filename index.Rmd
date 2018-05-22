@@ -4,7 +4,7 @@ title: ""
 
 </br></br>
 
-## Chromebook Data Science is a free online educational [program](./curriculum.html) to help anyone who can read, write, and use a computer to move into data science, the [number one rated job](https://www.glassdoor.com/List/Best-Jobs-in-America-LST_KQ0,20.htm).
+## Chromebook Data Science is a free online educational [program](./curriculum.html) to help anyone who can read, write, and use a computer to move into data science, the [number one rated job](https://www.glassdoor.com/List/Best-Jobs-in-America-LST_KQ0,20.htm). It is offered by faculty members in the Johns Hopkins Department of Biostatistics, Johns Hopkins Bloomberg School of Public Health.
 
 -----
 
@@ -38,7 +38,7 @@ two_column("We minimize computer costs","We have developed an online program tha
 
 ```{r,echo=FALSE,warning=FALSE}
 source("helper2.R")
-two_column("Free courses","Our Chromebook Data Science program is entirely online and you can take it for free. You can take the classes any time and at your own pace. You get a certificate for each Johns Hopkins online class from Leanpub.","./img/index/08_index.png",iside="left",link="./curriculum.html", linktext="See our curriculum")
+two_column("Free courses","Our Chromebook Data Science program is entirely online and you can take it for free. You can take the classes any time and at your own pace. You get a certificate for each Chromebook Data Science online class from Leanpub.","./img/index/08_index.png",iside="left",link="./curriculum.html", linktext="See our curriculum")
 ```
 
 

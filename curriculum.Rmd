@@ -3,6 +3,7 @@ title: "Chromebook Data Science Curriculum"
 output: html_document
 ---
 
+<<<<<<< HEAD
 There are currently 12 courses that are offered in the Chromebook Data Science Curriculum.
 
 Class | Course Description | Leanpub Link
@@ -19,3 +20,150 @@ Class | Course Description | Leanpub Link
 **Basics of Data Analysis** | This course will discuss the various types of data analysis, what to consider when carrying out an analysis, and how to approach a data analysis project. | [Course 9]()
 **Written and Oral Communication in DS** | | [Course 10]()
 **Getting a job in data science** | After you learn all of these skills, it is still crucial that you learn the best ways to network and get a job in data science. This course will focus on so-called soft skills on how to give presentations, how to present yourself in the online community, how to network, and how to do data science interviews. | [Course 11]()
+=======
+The Courses offered in the Chromebook Data Science Series:
+
+
+#### **Introductory Track**
+
+Class | Course Page | Links
+---------------------|-------------------|----------------
+How to Use A Chromebook | [Intro](#how-to-use-a-chromebook) | 
+Google and the Cloud | [Google](#google-and-the-cloud) |
+Organizing Data Science Projects | [File Org](#organizing-data-science-projects) |
+GitHub | [GitHub](#GitHub) | 
+Introduction to R | [R](#introduction-to-r) |
+Data Cleaning and Wrangling | [Data Wrangling](#data-cleaning-and-wrangling) |
+Getting Data | [Data](#getting-data) |
+Data Visualization | [Data Viz](#data-visualization) |
+Basics of Data Analysis | [Data Analysis](#basics-of-data-analysis) |
+Written and Oral Communication in Data Science | [Communication](#written-and-oral-communication-in-data-science) |
+Getting a Job in Data Science | [Data Science Jobs](#getting-a-job-in-data-science) |
+
+#### **Advanced Track**
+
+Class | Course Page | Links
+---------------------|-------------------|----------------
+Unconventional Data | [Unconventional Data](#unconventional-data) |
+Machine Learning | [Machine Learning](#machine-learning) |
+Data Products | [Data Products](#data-products) |
+
+Each course is sequential and **requires absolutely no prior coding experience**. If you know how to use an smartphone you're more than qualified to take this course.
+
+Here's a more extensive breakdown of each course.
+
+-----
+
+## How To Use A Chromebook
+This course will introduce you to using a Chromebook. The Introduction and Setup course might sound simple, but it will set up the infrastructure for success with the later, more challenging courses.
+
+* Software used: Chrome OS, Chrome
+* Programs used: N/A
+
+-----
+
+## Google and the Cloud
+The Google and the Cloud course introduces using Google's in-built apps, which form the fundamental backbone of a Chromebook. We'll go step by step through the process to integrating these apps together to form your productivity workflow.
+
+* Software used: Google Chrome, Google Drive (Sheets, Docs, Slides, etc.), Google Calendar, Google Maps, YouTube, Slack  
+* Programs used: N/A
+
+-----
+
+## Organizing Data Science Projects
+Projects are central to the role of any data scientist. These lessons will discuss how to organize projects and the files that are part of each project and will introduce you to Markdown, a simple way to compile text documents to a standard format.
+
+* Software used: Google Chrome, RStudio
+* Programs used: Markdown
+
+-----
+
+
+## GitHub 
+Github is the world's most popular version control website. With GitHub and Markdown, they provide a powerful way for you to get your code out to the world. In this course, we will tour GitHub, discussing the basic features of the website, what a repository is, and how to work with repositories on GitHub.
+
+* Software used: Google Chrome
+* Programs used: Git, Markdown
+
+-----
+
+## Introduction to R
+R is a simple to learn programming language that is powerful for data analysis. The R Basics course will teach you how to get started from ground zero. We will discuss what objects and packages are, introduce some basic R commands, and discuss RMarkdown, which you will use to write all your reports and to develop a personal website. 
+
+* Software used: Google Chrome, RStudio 
+* Programs used: R, RMarkdown, blogdown
+
+-----
+
+## Data Cleaning and Wrangling
+This course will delve deeper into working with data. Much of what data scientists do involves getting data into a usable format and cleaning the data to make sure that analyses can be done properly. We'll 
+
+* Software used: Google Chrome, RStudio
+* Programs used: R, dplyr, tidyr, stringr, lubridate, 
+
+-----
+
+## Getting Data 
+Data is often misunderstood in both subject and application. The Data course will focus on understanding what data is, what the data you'll encounter will look like, and how to acquire the data you'll use for projects. Additionally, we'll start to discuss important ethical and legal considerations when working in data scienc eand how to work with these data in RStudio.
+
+* Software used: Google Chrome, Google Sheets, Microsoft Excel, RStudio, 
+* Programs used: R, readxl, readr, googlesheets, jsonlite, dbplyr, httr, rvest
+
+-----
+
+## Data Visualization
+This course will cover the different types of visualization most commonly used by data scientists as well as how to make these different plots in R. We will cover how to make basic tables and figures as well as how to make interactive graphics. 
+
+* Software used: Google Chrome, RStudio
+* Programs used: ggplot2, plotly, gganimate
+
+-----
+
+## Basics of Data Analysis
+This course will discuss the various types of data analysis, what to consider when carrying out an analysis, and how to approach a data analysis project.  
+
+* Software used: Google Chrome, RStudio
+* Programs used: All the above
+
+------
+
+## Written and Oral Communication in Data Science
+
+While technical skills are incredibly important to data science, effective communication skills are equally as important. This course will cover the forms of written and oral communication most frequently required of data science and how to be an effective data science communicator. 
+
+* Software used: All of the above
+* Programs used: All of the above
+
+------
+
+## Getting a Job in Data Science
+After you learn all of these skills, it is still crucial that you learn the best ways to network and get a job in data science. This course will focus on so-called soft skills on how to give presentations, how to present yourself in the online community, how to network, and how to do data science interviews. 
+
+* Software used: All of the above, Twitter, LinkedIn
+* Programs used: All of the above
+
+-----
+
+## Unconventional Data
+Data scientists are given data in many forms. Sometimes it's a simple spreadsheet, but often times it's not. This course will introduce you to many unconventional types of data and teach you how to work with them effectively in RStudio.  
+
+* Software used: jsonlite, dbplyr, httr, rvest
+* Programs used: All the above
+
+------
+
+## Machine Learning
+Data Scientists are often asked to use data to make predictions. To learn this, we'll discuss basic machine learning approaches and walk through how to carry these out in R.
+
+* Software used: All the above
+* Programs used: All the above
+
+-----
+
+## Data Products
+Sharing your results with others and visualizing them in a meaningful way is an important skill for a data sciensist to have. This course will delve deeply into the various ways that one can present their data and share their results in a visually appealing way. 
+
+* Software used: Google Chrome, RStudio, Shiny
+* Programs used: All the above
+
+>>>>>>> 769faaab36a0dcef309b0218dbcaddae4e8c4983
