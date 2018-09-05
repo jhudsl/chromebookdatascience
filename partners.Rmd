@@ -1,11 +1,19 @@
 ---
-title: "For Employers"
+title: "Our Partners"
 ---
 
+CBDS and CBDS+ are in partnership with local and national non-profits and companies. Here is a list of our partners.
+
+| <img src="img/index/leanpub.png" width="200"/> |<img src="img/index/datacamp.png" width="200"/> |
+
+
+
+
+<!--
 ### Are you looking for highly trained data scientists? Are you having trouble identifying, attracting, evaluating, and hiring top talent? If you are interested in becoming a hiring partner and hiring remote data workers from our Chromebook Data Science program please complete the survey below.
 
 ------
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSccVo3Vytlj5Z3u02APiO_cmVueVe1WDCpxiB_Dpz5Auzwb7A/viewform?embedded=true" width="760" height="2400" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 
-
+-->

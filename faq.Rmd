@@ -59,7 +59,7 @@ You can pay what you want to take the courses and get the certificates (includin
 
 ## How long will it take to complete CBDS?
 
-The program is made up of 12 courses. The advantage of the program is that you can take the classes at your pace and order. The suggested order of the classes is provided [here](http://jhudatascience.org/chromebookdatascience/cbds.html).
+The program is made up of 12 courses. The advantage of the program is that you can take the classes at your pace and order. The suggested order of the classes is provided [here](./cbds.html).
 
 
 
@@ -93,4 +93,4 @@ Upon completion of each course in the program, you will get a certificate for ea
 
 ## How can my non-profit organization get involved?
 
-If you are a non-profit located in the United States and you are interested in collaborating with us in teaching data science to disadvantaged communities in your area, contact us [here](http://jhudatascience.org/chromebookdatascience/contact.html).
+If you are a non-profit located in the United States and you are interested in collaborating with us in teaching data science to disadvantaged communities in your area, contact us [here](./contact.html).

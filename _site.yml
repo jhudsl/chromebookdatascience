@@ -1,12 +1,16 @@
 name: CBDS
 output_dir: '.'
 navbar:
-  title: CBDS
+  title: "<img id=\"logo\" style=\"width: 30px;\" src=\"img/logo.png\" />"
   left:
   - text: Home
     href: index.html
   - text: CBDS
     href: cbds.html
+  - text: CBDS+
+    href: cbdsplus.html
+  - text: Our Partners
+    href: partners.html
   - text: Team
     href: team.html
   - text: FAQs
