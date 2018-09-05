@@ -1,5 +1,6 @@
 ---
-title: ""
+title: "Welcome to Chromebook Data Science"
+output: html_document
 ---
 
 </br></br>
