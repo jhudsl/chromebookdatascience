@@ -5,26 +5,31 @@ output: html_document
 
 -----
 
-[What is Chromebook Data Science?](#what-is-chromebook-data-science)  
-[What is Data Science?](#what-is-data-science)  
-[What does it cost?](#what-does-it-cost)  
-[How much time will it take?](#how-much-time-will-it-take)  
-[What do I need to start?](#what-do-i-need-to-start)  
-[Do I need a college degree to join?](#do-i-need-a-college-degree-to-join)  
-[Do I need to know how to program?](#do-i-need-to-know-how-to-program)  
-[Do I need to be located in Baltimore?](#do-i-need-to-be-located-in-baltimore)  
+[What is the Chromebook Data Science (CBDS) program?](#what-is-cbds)  
+[What is the Chromebook Data Science Plus (CBDS+) program?](#what-is-cbds-plus)  
+[What is data science?](#what-is-data-science)  
+[What do I need to start CBDS?](#what-do-i-need)  
+[Can I join CBDS+?](#can-i-join-cbds-plus)   
+[What is the cost of CBDS?](#what-is-the-cost)  
+[How long will it take to complete CBDS?](#how-long-will-it-take)  
+[Do I need a college degree to join?](#do-i-need-college-degree)   
+[Do I need to know how to code?](#do-i-need-to-know-coding)  
 [How do I join?](#how-do-i-join)  
-[What types of jobs would I apply to after?](#what-types-of-jobs-would-i-apply-to-after)  
-[What skills will I learn?](#what-skills-will-i-learn)  
-[When can I complete the course?](#when-can-i-complete-the-course)  
-[When are the help sessions?](#when-are-the-help-sessions)  
-[Can I have another job during the course?](#can-i-have-another-job-during-the-course)  
+[What skills will I learn?](#what-skills-do-i-learn)  
+[What do I get upon completion of CBDS?](#what-do-i-get-upon-completion)   
+[How can my non-profit organization get involved?](#how-non-profits-can-get-involved)
+
 
 -----
 
-## What is Chromebook Data Science?
+## What is the Chromebook Data Science (CBDS) program?
 
-A free online educational program to help anyone who can read, write, and use a computer to move into data science, the number one rated job.
+Chromebook Data Science (CBDS) is an online educational program to help anyone who can read, write, and use a computer to move into data science. It is offered by faculty members in the Johns Hopkins Department of Biostatistics, Johns Hopkins Bloomberg School of Public Health.
+
+
+## What is the Chromebook Data Science Plus (CBDS+) program?
+
+Chromebook Data Science Plus (CBDS+) is a supplamentary program in addition to CBDS and constitutes tutoring and job placement program in the field of data science for historically underserved populations. We are currently running the program in Baltimore in collaboration with local non-profits. The goal of CBDS+ is to provide additional support to learners from underprivileged communities. CBDS+ focuses on training economically disadvantaged students with minimal academic backgrounds to a level that they could take these jobs. 
 
 
 ## What is data science?
@@ -35,61 +40,57 @@ Simply, data science is the process of *using data to answer interesting questio
 
 See [Jeff's post about Data Science](https://simplystatistics.org/2015/03/17/data-science-done-well-looks-easy-and-that-is-a-big-problem-for-data-scientists/) for more information.
 
-## What do I need to complete Chromebook Data Science?
 
-The classes only require access to a computer and an internet connection. If you don't access to these, both are often available at a local library.
 
-## What does it cost? 
+## What do I need to start CBDS?
+
+The classes only require access to a computer and an internet connection. If you don't access to these, both are often available at a local library. And, you will have to want to learn.  Most of the courses are self-guided and require you to push yourself to complete them. 
+
+## Can I join CBDS+?
+
+Unfortunately, CBDS+ is only available in Baltimore, MD and there is no open enrollment for the program. We are hoping to expand the program nationally. However, CBDS is available for anyone interested in learning data science at no cost.
+
+
+## What is the cost of CBDS? 
 
 You can pay what you want to take the courses and get the certificates (including nothing at all!). 
 
-## How much time will it take?
 
-The program is made up of 12 courses. While some courses are shorter than others, in total we estimate that it will take approximately 160 hours to complete. 
 
-## What do I need to start?
+## How long will it take to complete CBDS?
 
-You need a Chromebook or a computer with the ability to connect to the internet.  And, you will have to want to learn.  Most of the courses are self-guided and require you to push yourself to complete them. 
+The program is made up of 12 courses. The advantage of the program is that you can take the classes at your pace and order. The suggested order of the classes is provided [here](http://jhudatascience.org/chromebookdatascience/cbds.html).
+
+
 
 ## Do I need a college degree to join?
 
 No!  The only requirements that you need are a standard high school background in mathematics (such as algebra) and the ability to use a computer.  Our classes require an internet connection, which is usually available at a local library if you do not have one at home.
 
-## Do I need to know how to program?
+
+
+## Do I need to know how to code?
 
 No. These courses will teach you the skills you need to know to be an effective data scientist.  
 
-## Do I need to be located in Baltimore?
 
-No!  The main point of Chromebook Data Science is to be able to work from anywhere.  We will also have other ways to contact the team when you have questions or need help.
 
 ## How do I join?
 
-Our first class is rolling out in late April, 2018 and more information will be located on the main site.
+All classes are launched on the Leanpub platform. You can find the courses [here]().
 
-## What types of jobs would I apply to after?
 
-After finishing the program you will be ready to apply for entry level data science, data analyst, and business analyst jobs. We plan on rolling out more courses to help you build your skills as you grow in your job. 
 
 ## What skills will I learn?
 
-The coursework will start with the basics of using Google's web browser (Google Chrome) and Google Products (such as Google Docs and Google Sheets). The coursework will then move to learning how to program in the statistical language R and using software such as Markdown, RStudio, and GitHub. Throughout this program you will learn how to work with data, the basics of data analysis and machine learning, and how to visualize data. You will learn how to carry out projects from start to finish and design your own website.
-
-## When can I complete the course?
-
-The first courses will be available in late April 2018 and we hope to have the whole program online by the end of May. 
-
-<!-- ## When are the help sessions?
-
-Details coming soon.
+The coursework will start with the basics of using Google's web browser (Google Chrome) and Google Products (such as Google Docs and Google Sheets). The coursework will then move to learning how to program in the statistical language R and using software such as Markdown, RStudio, and GitHub. Throughout this program you will learn how to work with data, the basics of data analysis and machine learning, and how to visualize data. You will learn how to carry out projects from start to finish and design your own website. We also have courses on soft skills such as communication skills and how to get a job in data science.
 
 
-## Can I have another job during the course?
 
-Depending upon the flexibility of your current job, you may be able to have another job while you complete this course. Having another job may slow down your progress, but it is possible to have a job and complete this program. 
-
--->
-
-## What do I get upon completion?
+## What do I get upon completion of CBDS?
 
 Upon completion of each course in the program, you will get a certificate for each Johns Hopkins online class from Leanpub.
+
+## How can my non-profit organization get involved?
+
+If you are a non-profit located in the United States and you are interested in collaborating with us in teaching data science to disadvantaged communities in your area, contact us [here](http://jhudatascience.org/chromebookdatascience/contact.html).

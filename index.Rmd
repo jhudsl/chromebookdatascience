@@ -4,7 +4,7 @@ title: ""
 
 </br></br>
 
-## Chromebook Data Science is a free online educational [program](./curriculum.html) to help anyone who can read, write, and use a computer to move into data science, the [number one rated job](https://www.glassdoor.com/List/Best-Jobs-in-America-LST_KQ0,20.htm). It is offered by faculty members in the Johns Hopkins Department of Biostatistics, Johns Hopkins Bloomberg School of Public Health.
+## Chromebook Data Science (CBDS) is a free online educational [program](./curriculum.html) to help anyone who can read, write, and use a computer to move into data science, the [number one rated job](https://www.glassdoor.com/List/Best-Jobs-in-America-LST_KQ0,20.htm). It is offered by faculty members in the Johns Hopkins Department of Biostatistics, Bloomberg School of Public Health.
 
 -----
 
@@ -38,7 +38,7 @@ two_column("We minimize computer costs","We have developed an online program tha
 
 ```{r,echo=FALSE,warning=FALSE}
 source("helper2.R")
-two_column("Free courses","Our Chromebook Data Science program is entirely online and you can take it for free. You can take the classes any time and at your own pace. You get a certificate for each Chromebook Data Science online class from Leanpub.","./img/index/08_index.png",iside="left",link="./curriculum.html", linktext="See our curriculum")
+two_column("Free courses","Our CBDS program is entirely online and you can take it for free. You can take the classes any time and at your own pace. You get a certificate for each CBDS online class from Leanpub.","./img/index/08_index.png",iside="left",link="./curriculum.html", linktext="See our curriculum")
 ```
 
 
@@ -46,14 +46,14 @@ two_column("Free courses","Our Chromebook Data Science program is entirely onlin
 
 ```{r,echo=FALSE,warning=FALSE}
 source("helper2.R")
-two_column("Learn anywhere","Data science work can be done from anywhere there is an Internet connection. Chromebook Data Science can be completed from anywhere. ","./img/index/remotework.png",iside="right")
+two_column("Learn anywhere","Data science work can be done from anywhere there is an Internet connection. CBDS can be completed from anywhere. ","./img/index/remotework.png",iside="right")
 ```
 
 -----
 
 ```{r,echo=FALSE,warning=FALSE}
 source("helper2.R")
-two_column("Finding jobs","Our program covers soft skills you need to get data science jobs, including how to network and get your name out there. We are also working with partner companies who need to fill data science roles to place our graduates in remote and local data science jobs. (If you are looking for data scientists consider becoming a Chromebook Data Science hiring partner). ","./img/index/networking.png", link="./partners.html",linktext="Become a Hiring Partner")
+two_column("Finding jobs","Our program covers soft skills you need to get data science jobs, including how to network and get your name out there. We are also interested in working with partner companies who need to fill data science roles to place our graduates in remote and local data science jobs. (If you are looking for data scientists consider becoming a CBDS hiring partner). ","./img/index/networking.png")
 ```
 
 <br> 

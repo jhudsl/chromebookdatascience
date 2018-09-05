@@ -1,12 +1,12 @@
-name: Chromebook Data Science
+name: CBDS
 output_dir: '.'
 navbar:
-  title: Chromebook Data Science
+  title: CBDS
   left:
   - text: Home
     href: index.html
-  - text: Curriculum
-    href: curriculum.html
+  - text: CBDS
+    href: cbds.html
   - text: Team
     href: team.html
   - text: FAQs
