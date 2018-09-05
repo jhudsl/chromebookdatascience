@@ -4,7 +4,7 @@ title: "Our team"
 
 
 
-![](./img/CBDS_UpSet.svg)
+![](./img/cbds_team.png)
 
 </br></br>
 
@@ -91,7 +91,7 @@ two_column_fixed_height(text = "Sarah McClymont is a PhD candidate in Human Gene
 
 ```{r,echo=FALSE,warning=FALSE}
 source("helper.R")
-two_column_fixed_height(text = "Leslie Mying is an assistant professor of mathematics, statistics, and computer science at Macalester University. She holds a PhD degree in biostatistics at the Johns Hopkins Bloomberg School of Public Health. She has broad research interests in the areas of biology, human-data interaction, medicine, epidemiology, and public health. ",
+two_column_fixed_height(text = "Leslie Myint is an assistant professor of mathematics, statistics, and computer science at Macalester University. She holds a PhD degree in biostatistics at the Johns Hopkins Bloomberg School of Public Health. She has broad research interests in the areas of biology, human-data interaction, medicine, epidemiology, and public health. ",
                         img = "./img/team/leslie.png",
                         link="https://lmyint.github.io/",
                         linktext="More about Leslie")
