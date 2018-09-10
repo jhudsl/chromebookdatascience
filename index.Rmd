@@ -11,7 +11,7 @@ output: html_document
 
 ```{r,echo=FALSE,warning=FALSE}
 source("helper2.R")
-two_column("Why data science?","Data science is the number one rated job by Glassdoor and there are more than 350,000 new data science expected by 2020.","./img/why_data_science/dataanalysis.png")
+two_column("Why data science?","Data science is the number one rated job by Glassdoor and there are more than 350,000 new data science jobs expected by 2020.","./img/why_data_science/dataanalysis.png")
 ```
 
 
@@ -39,7 +39,7 @@ two_column("We minimize computer costs","We have developed an online program tha
 
 ```{r,echo=FALSE,warning=FALSE}
 source("helper2.R")
-two_column("Free courses","Our CBDS program is entirely online and you can take it for free. You can take the classes any time and at your own pace. You get a certificate for each CBDS online class from Leanpub.","./img/index/08_index.png",iside="left",link="./curriculum.html", linktext="See our curriculum")
+two_column("Free courses","Our CBDS program is entirely online and you can take it for free. You can take the classes any time and at your own pace. You get a certificate for each CBDS online class from Leanpub.","./img/index/08_index.png",iside="left",link="./cbds.html", linktext="See our curriculum")
 ```
 
 
