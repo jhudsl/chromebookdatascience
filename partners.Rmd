@@ -8,7 +8,10 @@ CBDS and CBDS+ are in partnership with local and national non-profits and compan
 
 <a href="http://www.leanpub.com">
   <img src="img/index/leanpub.png" width="200"/>
+</a><a href="http://www.datacamp.com">
+  <img src="img/index/datacamp.png" width="300"/>
 </a>
+
 
 <!--
 ### Are you looking for highly trained data scientists? Are you having trouble identifying, attracting, evaluating, and hiring top talent? If you are interested in becoming a hiring partner and hiring remote data workers from our Chromebook Data Science program please complete the survey below.
