@@ -10,6 +10,10 @@ CBDS and CBDS+ are in partnership with local and national non-profits and compan
   <img src="img/index/leanpub.png" width="200"/>
 </a><a href="http://www.datacamp.com">
   <img src="img/index/datacamp.png" width="300"/>
+</a><a href="https://www.starbucks.com/store-locator/store/1017343/1812-ashland-1812-ashland-ave-baltimore-city-md-21205-us">
+  <img src="img/index/starbucks.png" width="170"/>
+</a><a href="http://www.rstudio.com">
+  <img src="img/index/rstudio.png" width="250"/>
 </a>
 
 
