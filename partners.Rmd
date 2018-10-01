@@ -4,7 +4,7 @@ title: "Our Partners"
 
 CBDS and CBDS+ are in partnership with local and national non-profits and companies. Here is a list of our partners.
 
-
+## Our educational partners
 
 <a href="http://www.leanpub.com">
   <img src="img/index/leanpub.png" width="200"/>

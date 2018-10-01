@@ -11,7 +11,7 @@ title: "Our team"
 
 ```{r,echo=FALSE,warning=FALSE}
 source("helper.R")
-two_column_fixed_height(text = "Jeff Leek is the director of Chromebook Data Science. He has taught millions of people data science online through massive online open courses. He is also an associate professor at Johns Hopkins Bloomberg School of Public Health and co-director of the Johns Hopkins Data Science Lab. ",
+two_column_fixed_height(text = "Jeff Leek is a professor of biostatistics at Johns Hopkins University Bloomberg School of Public Health. He has taught millions of people data science online through massive online open courses. He is also an associate professor at Johns Hopkins Bloomberg School of Public Health and co-director of the Johns Hopkins Data Science Lab. ",
                         img ="./img/team/jeff.png",
                         link="http://jtleek.com/", linktext="More about Jeff")
 ```
