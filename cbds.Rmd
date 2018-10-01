@@ -3,9 +3,14 @@ title: "Chromebook Data Science (CBDS)"
 output: html_document
 ---
 
-Chromebook Data Science (CBDS) is an online educational program to help anyone who can read, write, and use a computer to move into data science. It is offered by faculty members in the Johns Hopkins Department of Biostatistics, Johns Hopkins Bloomberg School of Public Health. There are currently 12 courses that are offered in the Chromebook Data Science Curriculum.
 
-Class | Course Description | Leanpub Link
+
+Course Set | Course Description | Leanpub Link
+------------------------|--------------------------------------------------|-----------
+**Chromebook Data Science** | Chromebook Data Science (CBDS) is an online educational program to help anyone who can read, write, and use a computer to move into data science. It is offered by faculty members in the Johns Hopkins Department of Biostatistics, Johns Hopkins Bloomberg School of Public Health. There are currently 12 courses that are offered in the Chromebook Data Science Curriculum.| [Course Set](https://leanpub.com/universities/set/jhu/chromebookdatascience)
+
+
+Course  | Course Description | Leanpub Link
 ------------------------|--------------------------------------------------|-----------
 **Introduction to Chromebook Data Science** | This is the first class in the Chromebook Data Science series. Data science is one of the most exciting and fastest growing careers in the world. The goal of this series is to help people with no background and limited resources transition into data science. The only pre-requisites are a computer with a web browser and the ability to type and follow instructions. We guide you through the rest. | [Course 0](https://leanpub.com/universities/courses/jhu/cbds-intro)
 **How to Use A Chromebook** | This course will introduce you to using a Chromebook. The Introduction and Setup course might sound simple, but it will set up the infrastructure for success with the later, more challenging courses. | [Course 1](https://leanpub.com/universities/courses/jhu/cbds-chromebook)
