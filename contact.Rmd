@@ -4,6 +4,13 @@ title: ""
 
 ------
 
+## Contact us if you're:
+
+- interested in running this program at your nonprofit, school, or organization
+- a technology partner interested in helping with curriculum development
+- a hiring partner interested in hiring recent learners who've completed the CBDS Course Set
+- taking the courses and have found an error, typo, or broken link in the CBDS course content
+
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdjDRBih9ovgEw015Yl3g3dN7nxR03A82ttWbBJmV6_xtCMdw/viewform?embedded=true" width="760" height="1000" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 
 
