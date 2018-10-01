@@ -5,19 +5,18 @@ output: html_document
 
 -----
 
-[What is the Chromebook Data Science (CBDS) program?](#what-is-cbds)  
-[What is the Chromebook Data Science Plus (CBDS+) program?](#what-is-cbds-plus)  
-[What is data science?](#what-is-data-science)  
-[What do I need to start CBDS?](#what-do-i-need)  
-[Can I join CBDS+?](#can-i-join-cbds-plus)   
-[What is the cost of CBDS?](#what-is-the-cost)  
-[How long will it take to complete CBDS?](#how-long-will-it-take)  
-[Do I need a college degree to join?](#do-i-need-college-degree)   
-[Do I need to know how to code?](#do-i-need-to-know-coding)  
+[What is the Chromebook Data Science (CBDS) program?](#what-is-the-chromebook-data-science-cbds-program)  
+[What is the Chromebook Data Science Plus (CBDS+) program?](#what-is-the-chromebook-data-science-plus-cbds-program) [What is data science?](#what-is-data-science)  
+[What do I need to start CBDS?](#what-do-i-need-to-start-cbds)  
+[Can I join CBDS+?](#can-i-join-cbds)   
+[What is the cost of CBDS?](#what-is-the-cost-of-cbds)  
+[How long will it take to complete CBDS?](#how-long-will-it-take-to-complete-cbds)  
+[Do I need a college degree to join?](#do-i-need-a-college-degree-to-join)   
+[Do I need to know how to code?](#do-i-need-to-know-how-to-code)  
 [How do I join?](#how-do-i-join)  
-[What skills will I learn?](#what-skills-do-i-learn)  
-[What do I get upon completion of CBDS?](#what-do-i-get-upon-completion)   
-[How can my non-profit organization get involved?](#how-non-profits-can-get-involved)
+[What skills will I learn?](#what-skills-will-i-learn)  
+[What do I get upon completion of CBDS?](#what-do-i-get-upon-completion-of-cbds)   
+[How can my non-profit organization get involved?](#how-can-my-non-profit-organization-get-involved)
 
 
 -----
