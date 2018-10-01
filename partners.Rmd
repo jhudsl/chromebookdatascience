@@ -6,7 +6,7 @@ CBDS and CBDS+ are in partnership with local and national non-profits and compan
 
 -----
 
-## Our education partner
+## Our education partners
 
 <a href="http://www.leanpub.com">
   <img src="img/index/leanpub.png" width="200"/>
@@ -24,7 +24,7 @@ CBDS and CBDS+ are in partnership with local and national non-profits and compan
 
 -----
 
-## Our community partner
+## Our community partners
 
 <a href="https://www.starbucks.com/store-locator/store/1017343/1812-ashland-1812-ashland-ave-baltimore-city-md-21205-us">
   <img src="img/index/starbucks.png" width="170"/>
