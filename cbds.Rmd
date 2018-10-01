@@ -29,5 +29,5 @@ Course  | Course Description | Leanpub Link
 
 Course Set | Course Set Description | Leanpub Link
 ------------------------|--------------------------------------------------|-----------
-**Chromebook Data Science** | Chromebook Data Science (CBDS) is an online educational program to help anyone who can read, write, and use a computer to move into data science. It is offered by faculty members in the Johns Hopkins Department of Biostatistics, Johns Hopkins Bloomberg School of Public Health. There are currently 12 courses that are offered in the Chromebook Data Science Curriculum. You can get all of the courses at once as a Course Set from Leanpub. | [Course Set](https://leanpub.com/universities/set/jhu/chromebookdatascience)
+**Chromebook Data Science** | Chromebook Data Science (CBDS) is an online educational program to help anyone who can read, write, and use a computer to move into data science. It is offered by faculty members in the Johns Hopkins Department of Biostatistics, Johns Hopkins Bloomberg School of Public Health. There are currently 12 courses that are offered in the Chromebook Data Science Curriculum. You can get all of the courses at once as a Course Set from Leanpub. | [Course Set](https://leanpub.com/universities/set/jhu/chromebook-data-science)
 
