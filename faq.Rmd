@@ -28,7 +28,7 @@ Chromebook Data Science (CBDS) is an online educational program to help anyone w
 
 ## What is the Chromebook Data Science Plus (CBDS+) program?
 
-Chromebook Data Science Plus (CBDS+) is a supplamentary program in addition to CBDS and constitutes tutoring and job placement program in the field of data science for historically underserved populations. We are currently running the program in Baltimore in collaboration with local non-profits. The goal of CBDS+ is to provide additional support to learners from underprivileged communities. CBDS+ focuses on training economically disadvantaged students with minimal academic backgrounds to a level that they could take these jobs. 
+Chromebook Data Science Plus (CBDS+) is a supplementary program in addition to CBDS and constitutes tutoring and job placement program in the field of data science for historically underserved populations. We are currently running the program in Baltimore in collaboration with local non-profits. The goal of CBDS+ is to provide additional support to learners from underprivileged communities. CBDS+ focuses on training economically disadvantaged students with minimal academic backgrounds to a level that they could take these jobs. 
 
 
 ## What is data science?
