@@ -76,7 +76,7 @@ No. These courses will teach you the skills you need to know to be an effective 
 
 ## How do I join?
 
-All classes are launched on the Leanpub platform. You can find the courses [here]().
+All classes are launched on the Leanpub platform. You can find the courses [here](https://leanpub.com/universities/set/jhu/chromebook-data-science).
 
 
 
