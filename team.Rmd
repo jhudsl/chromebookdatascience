@@ -21,6 +21,16 @@ two_column_fixed_height(text = "Jeff Leek is a professor of biostatistics at Joh
 
 ```{r,echo=FALSE,warning=FALSE}
 source("helper.R")
+two_column_fixed_height(text = "Ashley K.G. Johnson is the program administrator for CBDS+ at the Johns Hopkins Bloomberg School of Public Health. She facilitates tutoring for program participants, manages recruitment efforts and the development of corporate and non-profit partnerships. Ashley is a Baltimore native and a graduate of Loyola University Maryland. ",
+                        img = "./img/team/ashley.png",
+                        link="",
+                        linktext="")
+```
+
+-----
+
+```{r,echo=FALSE,warning=FALSE}
+source("helper.R")
 two_column_fixed_height(text = "Shannon Ellis is a postdoctoral fellow in the biostatistics department at the Johns Hopkins Bloomberg School of Public Health who is working on machine learning for predicting phenotypes like tissue, sex, and age from gene expression data. ",
                         img = "./img/team/shannon.png",
                         link="https://shanellis.github.io/about/",
@@ -38,6 +48,7 @@ two_column_fixed_height(text = "Aboozar Hadavand is a postdoctoral fellow at Joh
 ```
 
 -----
+
 
 ```{r,echo=FALSE,warning=FALSE}
 source("helper.R")
