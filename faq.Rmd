@@ -13,7 +13,7 @@ output: html_document
 [How long will it take to complete CBDS?](#how-long-will-it-take-to-complete-cbds)  
 [Do I need a college degree to join?](#do-i-need-a-college-degree-to-join)   
 [Do I need to know how to code?](#do-i-need-to-know-how-to-code)  
-[How do I join?](#how-do-i-join)  
+[How do I join?](#how-do-i-join) 
 [What skills will I learn?](#what-skills-will-i-learn)  
 [What do I get upon completion of CBDS?](#what-do-i-get-upon-completion-of-cbds)   
 [How can my non-profit organization get involved?](#how-can-my-non-profit-organization-get-involved)
@@ -52,9 +52,7 @@ Unfortunately, CBDS+ is only available in Baltimore, MD and there is no open enr
 
 ## What is the cost of CBDS? 
 
-You can pay what you want to take the courses and get the certificates (including nothing at all!). 
-
-
+There is a minimum price for each courses on Leanpub but you can pay as much as you want after that price. All the profits from enrolling in the courses go to sponsor the CBDS+ program we run in Baltimore. The purpose of the CBDS+ program is to make data science education more accessible for those who may not have the means to go to college. If you can't afford to purchase the courses, there is a complimentary coupon for each course (and for the entire course set) that allows you to take the courses for free. You can find the link to the coupon in the course description page on Leanpub.
 
 ## How long will it take to complete CBDS?
 
