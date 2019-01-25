@@ -5,7 +5,7 @@ output: html_document
 
 </br></br>
 
-## Chromebook Data Science (CBDS) is a free, massive open online educational [program](./cbds.html) offered through [Leanpub](https://leanpub.com/universities/set/jhu/chromebook-data-science) to help anyone who can read, write, and use a computer to move into data science, the [number one rated job](https://www.glassdoor.com/List/Best-Jobs-in-America-LST_KQ0,20.htm).
+## *Chromebook Data Science* (CBDS) is a free, massive open online educational [program](./cbds.html) offered through [Leanpub](https://leanpub.com/universities/set/jhu/chromebook-data-science) to help anyone who can read, write, and use a computer to move into data science, the [number one rated job](https://www.glassdoor.com/List/Best-Jobs-in-America-LST_KQ0,20.htm)
 
 -----
 
@@ -62,3 +62,6 @@ two_column("Finding jobs","Our program covers soft skills you need to get data s
 ------
 
 ### More questions? Great! Check out the list of our [partners](./partners.html), [frequently asked questions](./faq.html), learn about our [team](./team.html) or [contact us](./contact.html).
+
+system ('user.email "davis.andre492@gmail.com")
+system ('user.name "andre-davis")
